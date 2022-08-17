@@ -490,5 +490,47 @@
         "url": "https://eth.theneighbours.io/"
       }
     }
+  },
+  {
+    "id": "pandoproject",
+    "name": "PANDOPROJECT",
+    "verified": false,
+	  "image": "https://avatars.githubusercontent.com/u/105350478?s=200&v=4",
+    "description":
+      "Pandosoft offers Web3 solutions delivering data and video stream in the Blockchain.  Technology powered by the community, a one-stop multimodal streaming platform that enables incentives for streaming a variety of contents from serials, movies, shorts, online learning and live game streaming.",
+    "tags": [
+      "web3solutions",
+      "technology",
+      "data-delivery",
+      "streaming",
+      "platform",
+      "company"
+    ],
+    "links": {
+      "discord": {
+        "id": "discord",
+        "url": "https://t.co/0s04nrg3n6PandoProject"
+      },
+      "telegram": {
+        "id": "telegram",
+        "url": "https://t.co/55bZs3MCzbPandoProject "
+      },
+      "twitter": {
+        "id": "twitter",
+        "url": "https://twitter.com/PandoprojectPH"
+      },
+      "facebook": {
+        "id": "facebook",
+        "url": "https://t.co/iUzVTU9vMpPandoProject "
+      },
+      "youtube": {
+        "id": "youtube",
+        "url": "https://www.youtube.com/channel/UCUb6iH1LyCxrDUZoNeMiyqA/videos"
+      },
+      "website": {
+        "id": "website",
+        "url": "www.pandoproject.org"
+      }
+    }
   }
 ]
