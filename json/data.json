@@ -532,5 +532,58 @@
         "url": "www.pandoproject.org"
       }
     }
+  },
+  {
+    "id": "8chain",
+    "name": "8CHAIN",
+    "verified": false,
+	  "image": "https://avatars.githubusercontent.com/u/105350478?s=200&v=4",
+    "description":
+      "8CHAIN is an 8-in-1 token project, building ONE CHAIN at a time starting with MaxRep Workout-and-Earn",
+    "tags": [
+      "w2e",
+      "nft",
+      "p2e",
+      "staking",
+      "virtualworld"
+    ],
+    "links": {
+      "discord": {
+        "id": "discord",
+        "url": "https://discord.io/8CHAIN"
+      },
+      "telegram": {
+        "id": "telegram",
+        "url": "https://t.me/The8CHAINtalk"
+      },
+      "twitter": {
+        "id": "twitter",
+        "url": "https://twitter.com/The8CHAIN"
+      },
+      "facebook": {
+        "id": "facebook",
+        "url": "https://www.facebook.com/8CHAIN"
+      },
+      "instagram": {
+        "id": "instagram",
+        "url": "https://www.instagram.com/8chainofficial/"
+      },
+      "medium": {
+        "id": "medium",
+        "url": "https://8chainofficial.medium.com/"
+      },
+      "youtube": {
+        "id": "youtube",
+        "url": "https://www.youtube.com/channel/UCUb6iH1LyCxrDUZoNeMiyqA/videos"
+      },
+      "whitepaper": {
+        "id": "whitepaper",
+        "url": "https://8chain.gitbook.io/8chain/"
+      },
+      "website": {
+        "id": "website",
+        "url": "https://8chain.io/"
+      }
+    }
   }
 ]
