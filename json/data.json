@@ -3,10 +3,12 @@
     "id": "web3philippines",
     "name": "Web3 Philippines",
     "verified": true,
-	  "image": "https://bafybeiftqfcxixlfsmbgigq7mwssaesh3dy2bznwu4374k2du7vtnncame.ipfs.nftstorage.link/",
+	  "image": "https://avatars.githubusercontent.com/u/105350478?s=200&v=4",
     "description":
       "Filipino-led community, helping Filipinos build in the Web3 space by providing free access to Web3 education, making us the first official and active Web3 community in the country. We believe that Web3 is and will always be for everyone.",
-    "tags": ["community"],
+    "tags": [
+      "community"
+    ],
     "links": {
       "facebook": {
         "id": "fb",
@@ -30,10 +32,12 @@
     "id": "cashcows",
     "name": "Cash Cows",
     "verified": true,
-	  "image": "https://bafybeiftqfcxixlfsmbgigq7mwssaesh3dy2bznwu4374k2du7vtnncame.ipfs.nftstorage.link/",
+	  "image": "https://avatars.githubusercontent.com/u/105350478?s=200&v=4",
     "description":
       "An experiment about sharing wealth with every Cow holder.",
-    "tags": ["nft"],
+    "tags": [
+      "nft"
+    ],
     "links": {
       "twitter": {
         "id": "twitter",
@@ -49,10 +53,14 @@
     "id": "twala",
     "name": "Twala",
     "verified": true,
-	  "image": "https://bafybeiftqfcxixlfsmbgigq7mwssaesh3dy2bznwu4374k2du7vtnncame.ipfs.nftstorage.link/",
+	  "image": "https://avatars.githubusercontent.com/u/105350478?s=200&v=4",
     "description":
       "Twala is a specialized Ethereum sidechain designed to enable digital trust, security, and compliance for banks, government institutions, organizations, and businesses. Twala has built-in protocols for self-sovereign blockchain identities and digital document anchoring to help connect Web2 and Web3 ecosystems.",
-    "tags": ["blockchain", "company", "technology"],
+    "tags": [
+      "blockchain", 
+      "company",
+      "technology"
+    ],
     "links": {
       "facebook": {
         "id": "fb",
@@ -72,10 +80,15 @@
     "id": "dvcode",
     "name": "DvCode Technologies Inc.",
     "verified": true,
-	  "image": "https://bafybeiftqfcxixlfsmbgigq7mwssaesh3dy2bznwu4374k2du7vtnncame.ipfs.nftstorage.link/",
+	  "image": "https://avatars.githubusercontent.com/u/105350478?s=200&v=4",
     "description":
       "DvCode Technologies Inc. is an IT solutions company specializing in software development leveraging on blockchain smart contracts, digital wallets, and cyber-security; game app development; network infrastructure building and web 3.0 development. Our main goal is to help our clients make use of the modern technology in their every lives that will be fun, easy-to-use, cost-effective and convenient.",
-    "tags": ["nft", "defi", "gaming", "company"],
+    "tags": [
+      "nft", 
+      "defi", 
+      "gaming",
+      "company"
+    ],
     "links": {
       "facebook": {
         "id": "fb",
@@ -91,10 +104,14 @@
     "id": "gladiatordex",
     "name": "GladiatorDex",
     "verified": true,
-	  "image": "https://bafybeiftqfcxixlfsmbgigq7mwssaesh3dy2bznwu4374k2du7vtnncame.ipfs.nftstorage.link/",
+	  "image": "https://avatars.githubusercontent.com/u/105350478?s=200&v=4",
     "description":
       "GladiatorDex is a pvp auto-battler play-to-earn game on top of Polygon Network that has simple game mechanics but has robust game and token economy",
-    "tags": ["nft", "defi", "gaming"],
+    "tags": [
+      "nft", 
+      "defi", 
+      "gaming"
+    ],
     "links": {
       "facebook": {
         "id": "fb",
@@ -111,6 +128,337 @@
       "website": {
         "id": "website",
         "url": "https://gladiatordex.com"
+      }
+    }
+  },
+  {
+    "id": "serious-platypus-verse",
+    "name": "Serious Platypus Verse",
+    "verified": true,
+    "image": "https://avatars.githubusercontent.com/u/105350478?s=200&v=4",
+    "description": "We are supporting environmental advocates through this 105 unique genesis collection of serious platypus. 30% of earnings will proceed to charity for environmental protection. Holders will have a whitelist spot on the upcoming Awesome waren NFT collection, This collection is your key to Serious PlatyVerse. So sit back and relax your friendly platypus is on the way seriously!",
+    "tags": [
+      "nft",
+      "nft-collection"
+    ],
+    "links": {
+      "website": {
+        "id": "website",
+        "url": "https://seriousplatypusnft.xyz"
+      },
+      "twitter": {
+        "id": "twitter",
+        "url": "https://twitter.com/nft_serious"
+      },
+      "facebook": {
+        "id": "facebook",
+        "url": "https://facebook.com/platyversenft"
+      },
+      "discord": {
+        "id": "discord",
+        "url": "https://discord.gg/8pDeZxXnqF"
+      }
+    }
+  },
+  {
+    "id": "altswitch",
+    "name": "AltSwitch",
+    "verified": false,
+    "image": "https://avatars.githubusercontent.com/u/105350478?s=200&v=4",
+    "description": "AltSwitch is a blockchain-based company building products with an ecosystem of decentralized apps and services.",
+    "tags": [
+      "company",
+      "product"
+    ],
+    "links": {
+      "website":{
+        "id": "website",
+        "url": "https://altswitch.io"
+      },
+      "twitter": {
+        "id": "twitter",
+        "url": "https://twitter.com/altswitchglobal"
+      },
+      "facebook": {
+        "id": "facebook",
+        "url": "https://facebook.com/altswitchglobal"
+      },
+      "instagram": {
+        "id": "instagram",
+        "url": "https://instagram.com/altswitchglobal"
+      },
+      "discord": {
+        "id": "discord",
+        "url": "https://discord.com/invite/zjv3qMs6CU"
+      }
+    }
+  },
+  {
+    "id": "h-hedz-sharkisquad",
+    "name": "H-Hedz Sharksquad",
+    "verified": false,
+    "image": "https://avatars.githubusercontent.com/u/105350478?s=200&v=4",
+    "description": "The H-Hedz are hammer-head-shark-human hybrids who are smart professionals by day, musicians by night, hip and classy humanoids from sunup to sundown.  A well-thought-out brand is the secret to lifting H-Hedz above the swarm of NFTs. It is the key to making a ground-breaking impact in the virtual space. The aim is to turn heads and make noise in the Metaverse.",
+    "tags": [
+      "nft",
+      "nft-collection",
+      "p2e"
+    ],
+    "links": {
+      "website": {
+        "id": "website",
+        "url": "https://h-hedz.io"
+      },
+      "twitter": {
+        "id": "twitter",
+        "url": "https://twitter.com/HHedzP2E"
+      },
+      "facebook": {
+        "id": "facebook",
+        "url": "https://facebook.com/HHedzNFT"
+      },
+      "instagram": {
+        "id": "instagram",
+        "url": "https://instagram.com/HHedzNFT"
+      },
+      "discord": {
+        "id": "discord",
+        "url": "https://discord.com/invite/zjv3qMs6CU"
+      },
+      "medium": {
+        "id": "medium",
+        "url": "https://hhedz.medium.com"
+      },
+      "reddit": {
+        "id": "reddit",
+        "url": "https://reddit.com/user/hhedznft"
+      }
+    }
+  },
+  {
+    "id": "h-hedz-sharkisquad",
+    "name": "Adamant Global Ltd.",
+    "verified": false,
+    "image": "https://avatars.githubusercontent.com/u/105350478?s=200&v=4",
+    "description": "Software development and financial technology company specializing in blockchain technology.",
+    "tags": [
+      "company",
+      "services"
+    ],
+    "links": {
+      "website": {
+        "id": "website",
+        "url": "https://linkedin.com/company/adamant-global-ltd"
+      }
+    }
+  },
+  {
+    "id": "lx-studiolabs",
+    "name": "LX StudioLabs",
+    "verified": false,
+    "image": "https://avatars.githubusercontent.com/u/105350478?s=200&v=4",
+    "description": "LX StudioLabs is a web3 consulting firm that provides a full range of services, such as design, game development, and web3 development. We offer everything a web3 project owner needs to build their web3 idea. Along with that, LX StudioLabs is developing its own products which are w3bler and Engkanto Fantasy.",
+    "tags": [
+      "company",
+      "services",
+      "consulting"
+    ],
+    "links": {
+      "website": {
+        "id": "website",
+        "url": "https://lxstudiolabs.io"
+      },
+      "facebook": {
+        "id": "facebook",
+        "url": "https://facebook.com/lxstudiolabs"
+      },
+      "instagram": {
+        "id": "instagram",
+        "url": "https://instagram.com/lxstudiolabs"
+      },
+      "linkedin": {
+        "id": "linkedin",
+        "url": "https://linkedin.com/in/lx-studiolabs"
+      }
+    }
+  },
+  {
+    "id": "playible",
+    "name": "Playible",
+    "verified": false,
+    "image": "https://avatars.githubusercontent.com/u/105350478?s=200&v=4",
+    "description": "Playible is an NFT fantasy sports platform focused on bridging the gap between web3 technologies and traditional gaming markets to offer free-to-enter fantasy sports contests with real cryptocurrency prizes.",
+    "tags": [
+      "nft",
+      "platform"
+    ],
+    "links": {
+      "website": {
+        "id": "website",
+        "url": "https://playible.club"
+      },
+      "twitter": {
+        "id": "twitter",
+        "url": "https://twitter.com/playible"
+      },
+      "discord": {
+        "id": "discord",
+        "url": "https://discord.gg/G9aZ2sqGKD"
+      }
+    }
+  },
+  {
+    "id": "blockshots-metaverse",
+    "name": "BlockShots Metaverse",
+    "verified": false,
+    "image": "https://avatars.githubusercontent.com/u/105350478?s=200&v=4",
+    "description": "BlockShots is a free-to-play (f2p), multiplayer, strategy, turn-based artillery game built with blockchain technology where players can control their bots (vessels), collect, craft, upgrade, and sell resources while competing with each other to attain top rank and earn epic rewards.",
+    "tags": [
+      "nft",
+      "p2e",
+      "game",
+      "metaverse"
+    ],
+    "links": {
+      "website": {
+        "id": "website",
+        "url": "https://blockshots.io"
+      }
+    }
+  },
+  {
+    "id": "kultura-nft",
+    "name": "Kultura NFT",
+    "verified": true,
+    "image": "https://avatars.githubusercontent.com/u/105350478?s=200&v=4",
+    "description": "Kultura NFT is a continuous NFT project soon launching in the Solana blockchain with a supply of 10,000 tribos. It is insipired from the beautiful culture of our Filipino ancestors who settled the norms of what we practice today. Along with this, we believe that influence and expansion is a great way to kick start our journey as an NFT project, so it is part of our advocacy to educate the people about the potential of web3 and the possible web4 in the future.",
+    "tags": [
+      "nft",
+      "nft-collection"
+    ],
+    "links": {
+      "website": {
+        "id": "website",
+        "url": "https://twitter.com/_KulturaNFT"
+      }
+    }
+  },
+  {
+    "id": "viridian-technologies",
+    "name": "Viridian Technologies Inc.",
+    "verified": false,
+    "image": "https://avatars.githubusercontent.com/u/105350478?s=200&v=4",
+    "description": "We provide top-of-the-line information technology solutions for individuals and businesses, with a particular focus and expertise on Blockchain, Metaverse, and Web 3.0 technology.",
+    "tags": [
+      "company",
+      "products",
+      "services"
+    ],
+    "links": {
+      "website": {
+        "id": "website",
+        "url": "https://viridiantech.io"
+      },
+      "facebook": {
+        "id": "facebook",
+        "url": "https://facebook.com/viridiantechnologies"
+      },
+      "instagram": {
+        "id": "instagram",
+        "url": "https://instagram.com/viridiantech"
+      },
+      "twitter": {
+        "id": "twitter",
+        "url": "https://twitter.com/ViridianTech_"
+      },
+      "linkedin": {
+        "id": "linkedin",
+        "url": "https://linkedin.com/company/viridiantech"
+      }
+    }
+  },
+  {
+    "id": "tetrix-network",
+    "name": "Tetrix Network",
+    "verified": false,
+    "image": "https://avatars.githubusercontent.com/u/105350478?s=200&v=4",
+    "description": "The Tetrix Network is a project that began in 2020 as an effort to change the way blockchains are designed and developed for the digital space where communities, enterprises, governments, and individuals interact and coexist in the same ecosystem. The overall focus beyond a particular set of innovations is to provide a sustainable ecosystem that better accounts for the needs of its users as well as other system projects seeking integration.",
+    "tags": [
+      "blockchain",
+      "technology",
+      "network"
+    ],
+    "links": {
+      "website": {
+        "id": "website",
+        "url": "https://tetrix.xyz"
+      },
+      "facebook": {
+        "id": "facebook",
+        "url": "https://facebook.com/tetrixnetwork"
+      },
+      "instagram": {
+        "id": "instagram",
+        "url": "https://instagram.com/tetrixnetwork/"
+      },
+      "twitter": {
+        "id": "twitter",
+        "url": "https://twitter.com/tetrixnetwork"
+      },
+      "linkedin": {
+        "id": "linkedin",
+        "url": "https://linkedin.com/company/viridiantech"
+      },
+      "tiktok": {
+        "id": "tiktok",
+        "url": "https://www.tiktok.com/@tetrixnetwork"
+      },
+      "telegram": {
+        "id": "telegram",
+        "url": "https://t.me/tetrixnetwork"
+      },
+      "discord": {
+        "id": "discord",
+        "url": "https://discord.gg/tetrixnetwork"
+      },
+      "medium": {
+        "id": "medium",
+        "url": "https://tetrixnetwork.medium.com"
+      }
+    }
+  },
+  {
+    "id": "trilz",
+    "name": "Trilz",
+    "verified": true,
+    "image": "https://avatars.githubusercontent.com/u/105350478?s=200&v=4",
+    "description": "Trilz delivers the best quality contents that covers Web 3.0 and anything blockchain. Aims to be the leading crypto media by 2023!",
+    "tags": [
+      "media",
+      "blog",
+      "creator"
+    ],
+    "links": {
+      "website": {
+        "id": "website",
+        "url": "https://facebook.com/ctrilz/"
+      }
+    }
+  },
+  {
+    "id": "the-round-table",
+    "name": "The Round Table (TRT)",
+    "verified": true,
+    "image": "https://avatars.githubusercontent.com/u/105350478?s=200&v=4",
+    "description": "The Round Table (TRT) is a community services provider that assists various crypto/NFT/blockchain gaming projects to develop healthy, engaged, and long-lasting communities. TRT helps projects achieve growth by converting the members of their communities into informed project investors.",
+    "tags": [
+      "company",
+      "services"
+    ],
+    "links": {
+      "website": {
+        "id": "website",
+        "url": "https://trtblockchain.solutions"
       }
     }
   }
