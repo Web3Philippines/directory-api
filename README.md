@@ -11,6 +11,8 @@ Parameters
 |tags|?tags=company,defi|
 |page & size (together)|?page=2&size=2|
 
+**IMPORTANT NOTE:** page starts at 0, size starts at 1
+
 ### Response
 
 JSON
