@@ -461,5 +461,34 @@
         "url": "https://trtblockchain.solutions"
       }
     }
+  },
+  {
+    "id": "the-neighbours",
+    "name": "The Neighbours",
+    "verified": false,
+	  "image": "https://avatars.githubusercontent.com/u/105350478?s=200&v=4",
+    "description":
+      "The Neighbours is an NFT based Metaverse game that runs its own DeFi protocol, where the community can buy virtual real estate and start earning daily rewards. Unlike the real world, every single asset can be bought, sold, or traded through the NFT Market. Property owners will be able to contribute and grow the platform’s ecosystem. ",
+    "tags": [
+      "nft",
+      "defi",
+      "p2e",
+      "metaverse",
+      "game"
+    ],
+    "links": {
+      "discord": {
+        "id": "discord",
+        "url": "https://discord.com/invite/CsX3hSpjSe"
+      },
+      "twitter": {
+        "id": "twitter",
+        "url": "https://twitter.com/HiNeighbours"
+      },
+      "website": {
+        "id": "website",
+        "url": "https://eth.theneighbours.io/"
+      }
+    }
   }
 ]
