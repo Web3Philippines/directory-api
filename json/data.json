@@ -681,5 +681,22 @@
         "url": "https://themegamaxi.com/"
       }
     }
+  },
+  {
+    "id": "royal-labs",
+    "name": "Royal Labs",
+    "verified": true,
+	  "image": "https://avatars.githubusercontent.com/u/105350478?s=200&v=4",
+    "description":
+      "A group of developers, creatives, and business people dedicated to increasing participation in web3: Royal Labs is an NFT development services company that built highly successful NFT brands with dedicated and loyal communities behind them, including Tasty Bones and KaijuFrenz.",
+    "tags": [
+      "company"
+    ],
+    "links": {
+      "twitter": {
+        "id": "twitter",
+        "url": "https://twitter.com/royallabsio"
+      }
+    }
   }
 ]
