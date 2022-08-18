@@ -647,5 +647,39 @@
         "url": "https://publc.com/"
       }
     }
+  },
+  {
+    "id": "the-mega-maxi",
+    "name": "The Mega Maxi",
+    "verified": false,
+	  "image": "https://avatars.githubusercontent.com/u/105350478?s=200&v=4",
+    "description":
+      "Daily web3 content—news, features, guides and events about crypto, NFTs and games.",
+    "tags": [
+      "news",
+      "media"
+    ],
+    "links": {
+      "discord": {
+        "id": "discord",
+        "url": "https://discord.gg/k3rZkK3cX4 "
+      },
+      "twitter": {
+        "id": "twitter",
+        "url": "https://twitter.com/themegamaxi"
+      },
+      "facebook": {
+        "id": "facebook",
+        "url": "https://www.facebook.com/themegamaxi"
+      },
+      "instagram": {
+        "id": "instagram",
+        "url": "https://www.instagram.com/themegamaxi/"
+      },
+      "website": {
+        "id": "website",
+        "url": "https://themegamaxi.com/"
+      }
+    }
   }
 ]
