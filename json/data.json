@@ -585,5 +585,49 @@
         "url": "https://8chain.io/"
       }
     }
+  },
+  {
+    "id": "project-elemento",
+    "name": "Project Elemento",
+    "verified": false,
+	  "image": "https://avatars.githubusercontent.com/u/105350478?s=200&v=4",
+    "description":
+      "Project Elemento is a Web project including an NFT collection of 10,000 folklore creatures derived from Philippine Mythology living in an advanced and futuristic era. We are combining our passion in Arts, Literature, and Web3 & community building to bring value to the NFT space.",
+    "tags": [
+      "nft",
+      "arts",
+      "collection",
+      "community"
+    ],
+    "links": {
+      "discord": {
+        "id": "discord",
+        "url": "http://discord.gg/projectelemento"
+      },
+      "twitter": {
+        "id": "twitter",
+        "url": "https://twitter.com/projectelemento"
+      },
+      "facebook": {
+        "id": "facebook",
+        "url": "https://www.facebook.com/projectelemento"
+      },
+      "medium": {
+        "id": "medium",
+        "url": "https://8chainofficial.medium.com/"
+      },
+      "whitepaper": {
+        "id": "whitepaper",
+        "url": "https://project-elemento.gitbook.io/whitepaper/"
+      },
+      "github": {
+        "id": "github",
+        "url": "https://github.com/projectelemento"
+      },
+      "website": {
+        "id": "website",
+        "url": "https://linktr.ee/projectelemento"
+      }
+    }
   }
 ]
