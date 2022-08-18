@@ -629,5 +629,23 @@
         "url": "https://linktr.ee/projectelemento"
       }
     }
+  },
+  {
+    "id": "publc",
+    "name": "PUBLC",
+    "verified": false,
+	  "image": "https://avatars.githubusercontent.com/u/105350478?s=200&v=4",
+    "description":
+      "We are a content discovery platform built on blockchain technology that rewards the entire web ecosystem. ",
+    "tags": [
+      "platform",
+      "technology"
+    ],
+    "links": {
+      "website": {
+        "id": "website",
+        "url": "https://publc.com/"
+      }
+    }
   }
 ]
