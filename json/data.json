@@ -685,7 +685,7 @@
   {
     "id": "royal-labs",
     "name": "Royal Labs",
-    "verified": true,
+    "verified": false,
 	  "image": "https://avatars.githubusercontent.com/u/105350478?s=200&v=4",
     "description":
       "A group of developers, creatives, and business people dedicated to increasing participation in web3: Royal Labs is an NFT development services company that built highly successful NFT brands with dedicated and loyal communities behind them, including Tasty Bones and KaijuFrenz.",
@@ -696,6 +696,65 @@
       "twitter": {
         "id": "twitter",
         "url": "https://twitter.com/royallabsio"
+      }
+    }
+  },
+  {
+    "id": "bitskwela",
+    "name": "Bitskwela",
+    "verify": true,
+    "image": "https://avatars.githubusercontent.com/u/105350478?s=200&v=4",
+    "description": "Bitskwela is an EduTech company that focuses on helping Filipinos own a piece of the internet through inclusive and accessible crypto-education in the form of courses, workshops, events, talks, and services.",
+    "tags": [
+      "community",
+      "education"
+    ],
+    "link": {
+      "website": {
+        "id": "website",
+        "url": "https://bitskwela.com"
+      },
+      "facebook": {
+        "id": "facebook",
+        "url": "https://facebook.com/bitskwela"
+      },
+      "twitter": {
+        "id": "twitter",
+        "url": "https://twitter.com/bitskwela"
+      },
+      "instagram": {
+        "id": "instagram",
+        "url": "https://instagram.com/bitskwela/"
+      }
+    }
+  },
+  {
+    "id": "rosepad",
+    "name": "RosePad",
+    "verify": true,
+    "image": "https://avatars.githubusercontent.com/u/105350478?s=200&v=4",
+    "description": "First Premium Launchpad-DEX-NFT platform on Oasis Network.",
+    "tags": [
+      "launchpad",
+      "company",
+      "nft"
+    ],
+    "link": {
+      "website": {
+        "id": "website",
+        "url": "https://rosepad.io"
+      },
+      "twitter": {
+        "id": "twitter",
+        "url": "https://twitter.com/RosePadMedia"
+      },
+      "discord": {
+        "id": "discord",
+        "url": "https://discord.com/invite/rosepad"
+      },
+      "linkedin": {
+        "id": "linkedin",
+        "url": "https://linkedin.com/company/rosepad-io"
       }
     }
   }
