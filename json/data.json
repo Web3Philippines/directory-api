@@ -709,7 +709,7 @@
       "community",
       "education"
     ],
-    "link": {
+    "links": {
       "website": {
         "id": "website",
         "url": "https://bitskwela.com"
@@ -739,7 +739,7 @@
       "company",
       "nft"
     ],
-    "link": {
+    "links": {
       "website": {
         "id": "website",
         "url": "https://rosepad.io"
