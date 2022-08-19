@@ -32,32 +32,56 @@ DataObject (Sample)
 
 ```
 {
-  "id": "web3philippines",
-  "name": "Web3 Philippines",
-  "verified": true,
-    "image": "https://avatars.githubusercontent.com/u/105350478?s=200&v=4",
-  "description":
-    "Filipino-led community, helping Filipinos build in the Web3 space by providing free access to Web3 education, making us the first official and active Web3 community in the country. We believe that Web3 is and will always be for everyone.",
-  "tags": [
-    "community"
-  ],
-  "links": {
-    "facebook": {
-      "id": "fb",
-      "url": "https://facebook.com/web3phl"
-    },
-    "discord": {
-      "id": "discord",
-      "url": "https://discord.com/invite/4xbJEBKWKc"
-    },
-    "twitter": {
-      "id": "twitter",
-      "url": "https://twitter.com/web3phl"
-    },
-    "website": {
-      "id": "website",
-      "url": "https://web3philippines.org"
+    "id": "web3philippines",
+    "name": "Web3 Philippines",
+    "verified": true,
+	  "image": "https://avatars.githubusercontent.com/u/105350478?s=200&v=4",
+    "description":
+      "Filipino-led community, helping Filipinos build in the Web3 space by providing free access to Web3 education, making us the first official and active Web3 community in the country. We believe that Web3 is and will always be for everyone.",
+    "tags": [
+      "community"
+    ],
+    "links": {
+      "discord": {
+        "id": "discord",
+        "url": "https://discord.com/invite/4xbJEBKWKc"
+      },
+      "telegram": {
+        "id": "telegram",
+        "url": ""
+      },
+      "facebook": {
+        "id": "facebook",
+        "url": "https://facebook.com/web3ph"
+      },
+      "twitter": {
+        "id": "twitter",
+        "url": "https://twitter.com/web3phl"
+      },
+      "instagram": {
+        "id": "instagram",
+        "url": ""
+      },
+      "medium": {
+        "id": "medium",
+        "url": ""
+      },
+      "youtube": {
+        "id": "youtube",
+        "url": ""
+      },
+      "whitepaper": {
+        "id": "whitepaper",
+        "url": ""
+      },
+      "github": {
+        "id": "github",
+        "url": ""
+      },
+      "website": {
+        "id": "website",
+        "url": "https://web3philippines.org"
+      }
     }
   }
-}
 ```

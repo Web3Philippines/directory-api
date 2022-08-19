@@ -461,5 +461,242 @@
         "url": "https://trtblockchain.solutions"
       }
     }
+  },
+  {
+    "id": "the-neighbours",
+    "name": "The Neighbours",
+    "verified": false,
+	  "image": "https://avatars.githubusercontent.com/u/105350478?s=200&v=4",
+    "description":
+      "The Neighbours is an NFT based Metaverse game that runs its own DeFi protocol, where the community can buy virtual real estate and start earning daily rewards. Unlike the real world, every single asset can be bought, sold, or traded through the NFT Market. Property owners will be able to contribute and grow the platform’s ecosystem. ",
+    "tags": [
+      "nft",
+      "defi",
+      "p2e",
+      "metaverse",
+      "game"
+    ],
+    "links": {
+      "discord": {
+        "id": "discord",
+        "url": "https://discord.com/invite/CsX3hSpjSe"
+      },
+      "twitter": {
+        "id": "twitter",
+        "url": "https://twitter.com/HiNeighbours"
+      },
+      "website": {
+        "id": "website",
+        "url": "https://eth.theneighbours.io/"
+      }
+    }
+  },
+  {
+    "id": "pandoproject",
+    "name": "PANDOPROJECT",
+    "verified": false,
+	  "image": "https://avatars.githubusercontent.com/u/105350478?s=200&v=4",
+    "description":
+      "Pandosoft offers Web3 solutions delivering data and video stream in the Blockchain.  Technology powered by the community, a one-stop multimodal streaming platform that enables incentives for streaming a variety of contents from serials, movies, shorts, online learning and live game streaming.",
+    "tags": [
+      "web3solutions",
+      "technology",
+      "data-delivery",
+      "streaming",
+      "platform",
+      "company"
+    ],
+    "links": {
+      "discord": {
+        "id": "discord",
+        "url": "https://t.co/0s04nrg3n6PandoProject"
+      },
+      "telegram": {
+        "id": "telegram",
+        "url": "https://t.co/55bZs3MCzbPandoProject "
+      },
+      "twitter": {
+        "id": "twitter",
+        "url": "https://twitter.com/PandoprojectPH"
+      },
+      "facebook": {
+        "id": "facebook",
+        "url": "https://t.co/iUzVTU9vMpPandoProject "
+      },
+      "youtube": {
+        "id": "youtube",
+        "url": "https://www.youtube.com/channel/UCUb6iH1LyCxrDUZoNeMiyqA/videos"
+      },
+      "website": {
+        "id": "website",
+        "url": "www.pandoproject.org"
+      }
+    }
+  },
+  {
+    "id": "8chain",
+    "name": "8CHAIN",
+    "verified": false,
+	  "image": "https://avatars.githubusercontent.com/u/105350478?s=200&v=4",
+    "description":
+      "8CHAIN is an 8-in-1 token project, building ONE CHAIN at a time starting with MaxRep Workout-and-Earn",
+    "tags": [
+      "w2e",
+      "nft",
+      "p2e",
+      "staking",
+      "virtualworld"
+    ],
+    "links": {
+      "discord": {
+        "id": "discord",
+        "url": "https://discord.io/8CHAIN"
+      },
+      "telegram": {
+        "id": "telegram",
+        "url": "https://t.me/The8CHAINtalk"
+      },
+      "twitter": {
+        "id": "twitter",
+        "url": "https://twitter.com/The8CHAIN"
+      },
+      "facebook": {
+        "id": "facebook",
+        "url": "https://www.facebook.com/8CHAIN"
+      },
+      "instagram": {
+        "id": "instagram",
+        "url": "https://www.instagram.com/8chainofficial/"
+      },
+      "medium": {
+        "id": "medium",
+        "url": "https://8chainofficial.medium.com/"
+      },
+      "youtube": {
+        "id": "youtube",
+        "url": "https://www.youtube.com/channel/UCUb6iH1LyCxrDUZoNeMiyqA/videos"
+      },
+      "whitepaper": {
+        "id": "whitepaper",
+        "url": "https://8chain.gitbook.io/8chain/"
+      },
+      "website": {
+        "id": "website",
+        "url": "https://8chain.io/"
+      }
+    }
+  },
+  {
+    "id": "project-elemento",
+    "name": "Project Elemento",
+    "verified": false,
+	  "image": "https://avatars.githubusercontent.com/u/105350478?s=200&v=4",
+    "description":
+      "Project Elemento is a Web project including an NFT collection of 10,000 folklore creatures derived from Philippine Mythology living in an advanced and futuristic era. We are combining our passion in Arts, Literature, and Web3 & community building to bring value to the NFT space.",
+    "tags": [
+      "nft",
+      "arts",
+      "collection",
+      "community"
+    ],
+    "links": {
+      "discord": {
+        "id": "discord",
+        "url": "http://discord.gg/projectelemento"
+      },
+      "twitter": {
+        "id": "twitter",
+        "url": "https://twitter.com/projectelemento"
+      },
+      "facebook": {
+        "id": "facebook",
+        "url": "https://www.facebook.com/projectelemento"
+      },
+      "medium": {
+        "id": "medium",
+        "url": "https://8chainofficial.medium.com/"
+      },
+      "whitepaper": {
+        "id": "whitepaper",
+        "url": "https://project-elemento.gitbook.io/whitepaper/"
+      },
+      "github": {
+        "id": "github",
+        "url": "https://github.com/projectelemento"
+      },
+      "website": {
+        "id": "website",
+        "url": "https://linktr.ee/projectelemento"
+      }
+    }
+  },
+  {
+    "id": "publc",
+    "name": "PUBLC",
+    "verified": false,
+	  "image": "https://avatars.githubusercontent.com/u/105350478?s=200&v=4",
+    "description":
+      "We are a content discovery platform built on blockchain technology that rewards the entire web ecosystem. ",
+    "tags": [
+      "platform",
+      "technology"
+    ],
+    "links": {
+      "website": {
+        "id": "website",
+        "url": "https://publc.com/"
+      }
+    }
+  },
+  {
+    "id": "the-mega-maxi",
+    "name": "The Mega Maxi",
+    "verified": false,
+	  "image": "https://avatars.githubusercontent.com/u/105350478?s=200&v=4",
+    "description":
+      "Daily web3 content—news, features, guides and events about crypto, NFTs and games.",
+    "tags": [
+      "news",
+      "media"
+    ],
+    "links": {
+      "discord": {
+        "id": "discord",
+        "url": "https://discord.gg/k3rZkK3cX4 "
+      },
+      "twitter": {
+        "id": "twitter",
+        "url": "https://twitter.com/themegamaxi"
+      },
+      "facebook": {
+        "id": "facebook",
+        "url": "https://www.facebook.com/themegamaxi"
+      },
+      "instagram": {
+        "id": "instagram",
+        "url": "https://www.instagram.com/themegamaxi/"
+      },
+      "website": {
+        "id": "website",
+        "url": "https://themegamaxi.com/"
+      }
+    }
+  },
+  {
+    "id": "royal-labs",
+    "name": "Royal Labs",
+    "verified": true,
+	  "image": "https://avatars.githubusercontent.com/u/105350478?s=200&v=4",
+    "description":
+      "A group of developers, creatives, and business people dedicated to increasing participation in web3: Royal Labs is an NFT development services company that built highly successful NFT brands with dedicated and loyal communities behind them, including Tasty Bones and KaijuFrenz.",
+    "tags": [
+      "company"
+    ],
+    "links": {
+      "twitter": {
+        "id": "twitter",
+        "url": "https://twitter.com/royallabsio"
+      }
+    }
   }
 ]
