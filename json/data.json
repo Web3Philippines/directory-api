@@ -902,5 +902,31 @@
         "url": "https://www.blockpinas.com/"
       }
     }
+  },
+  {
+    "id": "chibverse",
+    "name": "Chibverse",
+    "verified": false,
+	  "image": "https://avatars.githubusercontent.com/u/105350478?s=200&v=4",
+    "description":
+      "Chibverse is collective NFTs that can be minted using a polygon network with cool and unique looks that will melt your heart.",
+    "tags": [
+      "collection",
+      "nft"
+    ],
+    "links": {
+      "discord": {
+        "id": "discord",
+        "url": "https://discord.gg/cUbajFtmvX"
+      },
+      "twitter": {
+        "id": "twitter",
+        "url": "https://twitter.com/ChibNft"
+      },
+      "website": {
+        "id": "website",
+        "url": "https://chibverse.vercel.app/"
+      }
+    }
   }
 ]
