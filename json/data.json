@@ -1007,5 +1007,28 @@
         "url": "https://gry.ph"
       }
     }
+  },
+  {
+    "id": "risingeggplants",
+    "name": "Rising Eggplants",
+    "verified": false,
+	  "image": "https://avatars.githubusercontent.com/u/105350478?s=200&v=4",
+    "description":
+      "Rising Eggplants is a collection of 2222 eggplants that will soon rise in the Polygon Blockchain. It aims to connect people, support local artists, and promote social involvement. Aside from being a chill and fun project, the vision for the community is for it to be engaged in social, artistic, and fun activities with the help of experts and community members. Together with our eggplants, rise with us!",
+    "tags": [
+      "community",
+      "nft",
+      "collection"
+    ],
+    "links": {
+      "discord": {
+        "id": "discord",
+        "url": "https://discord.gg/talong"
+      },
+      "twitter": {
+        "id": "twitter",
+        "url": "https://twitter.com/risingeggplants "
+      }
+    }
   }
 ]
