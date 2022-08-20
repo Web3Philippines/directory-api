@@ -928,5 +928,23 @@
         "url": "https://chibverse.vercel.app/"
       }
     }
+  },
+  {
+    "id": "x3",
+    "name": "X3",
+    "verified": false,
+	  "image": "https://avatars.githubusercontent.com/u/105350478?s=200&v=4",
+    "description":
+      "Web3 Custom Development & IT Talent Outsourcing",
+    "tags": [
+      "company",
+      "solutions"
+    ],
+    "links": {
+      "website": {
+        "id": "website",
+        "url": "www.x-3.io"
+      }
+    }
   }
 ]
