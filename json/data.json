@@ -802,5 +802,24 @@
         "url": "https://playgroundzero.io/"
       }
     }
+  },
+  {
+    "id": "automotivedao",
+    "name": "Decentralized Automotive Organization",
+    "verified": false,
+	  "image": "https://avatars.githubusercontent.com/u/105350478?s=200&v=4",
+    "description":
+      "The Decentralized Automotive Organization is a Decentralized Autonomous Organization composed of people with diverse expertise that will help on the production, development and globalization of local automotive brands in the Philippines",
+    "tags": [
+      "dao",
+      "community",
+      "company"
+    ],
+    "links": {
+      "twitter": {
+        "id": "twitter",
+        "url": "https://twitter.com/automotivedao"
+      }
+    }
   }
 ]
