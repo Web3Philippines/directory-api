@@ -90,6 +90,10 @@ DataObject (Sample)
         "id": "whitepaper",
         "url": ""
       },
+      "deck": {
+        "id": "deck",
+        "url": ""
+      },
       "github": {
         "id": "github",
         "url": ""
