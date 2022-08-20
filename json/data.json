@@ -1165,5 +1165,41 @@
         "url": "https://opensea.io/collection/the-newbs"
       }
     }
+  },
+  {
+    "id": "delysium",
+    "name": "Delysium",
+    "verified": false,
+	  "image": "https://avatars.githubusercontent.com/u/105350478?s=200&v=4",
+    "description":
+      "A brief intro to one of our works (Delysium) : We are an open-world, AI-powered and completely player-owned MMO triple A blockchain game that supports players in creating various personalized physical assets, narrative assets together with native AI MetaBeings. What we are building is an immersive, supreme as well as dynamically generated open-world experience 😊 ",
+    "tags": [
+      "company",
+      "game",
+      "technology",
+      "ai"
+    ],
+    "links": {
+      "discord": {
+        "id": "discord",
+        "url": "https://discord.gg/delysium"
+      },
+      "telegram": {
+        "id": "telegram",
+        "url": "https://t.me/TheDelysium"
+      },
+      "twitter": {
+        "id": "twitter",
+        "url": "https://twitter.com/The_Delysium"
+      },
+      "deck": {
+        "id": "deck",
+        "url": "https://docsend.com/view/vf758rmxpja9c3us"
+      },
+      "website": {
+        "id": "website",
+        "url": "https://delysium.com/"
+      }
+    }
   }
 ]
