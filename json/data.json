@@ -1309,5 +1309,24 @@
         "url": "https://anuraverse.com/"
       }
     }
+  },
+  {
+    "id": "pnguin",
+    "name": "PNGUIN",
+    "verified": false,
+	  "image": "https://avatars.githubusercontent.com/u/105350478?s=200&v=4",
+    "description":
+      "PNGUIN powered by Gibki Labs Corporation will innovate traditional business technology by pioneering web3 business tools and software. We empowers builders, creators, and businesses with an ecosystem of tools to utilize web3 in their exclusive communities, to bring the same functionality, speed and convenience without compromises.",
+    "tags": [
+      "solution",
+      "company",
+      "technology"
+    ],
+    "links": {
+      "twitter": {
+        "id": "twitter",
+        "url": "https://twitter.com/pnguin_hq"
+      }
+    }
   }
 ]
