@@ -1201,5 +1201,40 @@
         "url": "https://delysium.com/"
       }
     }
+  },
+  {
+    "id": "pzoo",
+    "name": "PZOO",
+    "verified": false,
+	  "image": "https://avatars.githubusercontent.com/u/105350478?s=200&v=4",
+    "description":
+      "PZOO helps to build, design, operate, and govern blockchain solutions across many industries using trusted processes and technology. PZOO opens new doors for creatives and web users to new styles of digital interactions, trust, assets, applications, web tools, identity management, and experiences. ",
+    "tags": [
+      "solutions",
+      "tool",
+      "company"
+    ],
+    "links": {
+      "discord": {
+        "id": "discord",
+        "url": "https://discord.gg/vJqWsMyJUZ"
+      },
+      "facebook": {
+        "id": "facebook",
+        "url": "https://facebook.com/pzootech"
+      },
+      "twitter": {
+        "id": "twitter",
+        "url": "https://twitter.com/pzootech"
+      },
+      "medium": {
+        "id": "medium",
+        "url": "https://particlezoo.medium.com/"
+      },
+      "website": {
+        "id": "website",
+        "url": "https://pzooweb.vercel.app"
+      }
+    }
   }
 ]
