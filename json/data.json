@@ -529,7 +529,7 @@
       },
       "website": {
         "id": "website",
-        "url": "www.pandoproject.org"
+        "url": "https://pandoproject.org"
       }
     }
   },
@@ -683,23 +683,6 @@
     }
   },
   {
-    "id": "royal-labs",
-    "name": "Royal Labs",
-    "verified": false,
-	  "image": "https://avatars.githubusercontent.com/u/105350478?s=200&v=4",
-    "description":
-      "A group of developers, creatives, and business people dedicated to increasing participation in web3: Royal Labs is an NFT development services company that built highly successful NFT brands with dedicated and loyal communities behind them, including Tasty Bones and KaijuFrenz.",
-    "tags": [
-      "company"
-    ],
-    "links": {
-      "twitter": {
-        "id": "twitter",
-        "url": "https://twitter.com/royallabsio"
-      }
-    }
-  },
-  {
     "id": "bitskwela",
     "name": "Bitskwela",
     "verified": true,
@@ -755,6 +738,654 @@
       "linkedin": {
         "id": "linkedin",
         "url": "https://linkedin.com/company/rosepad-io"
+      }
+    }
+  },
+  {
+    "id": "playgroundzerodotio",
+    "name": "Playgroundzero.io",
+    "verified": false,
+	  "image": "https://avatars.githubusercontent.com/u/105350478?s=200&v=4",
+    "description":
+      "Playgroundzero.io is a community-focused GameFi platform that connects gamers, guilds and GameFi studios. PGZ allows users to develop their brand, expand their network, and explore opportunities in GameFi. The platform offers user verification, messaging, and marketplace capabilities to promote a safe and easy way to form meaningful connections.",
+    "tags": [
+      "gamefi",
+      "community",
+      "gamer",
+      "guild",
+      "company"
+    ],
+    "links": {
+      "facebook": {
+        "id": "facebook",
+        "url": "https://www.facebook.com/playgroundzero.io/ "
+      },
+      "twitter": {
+        "id": "twitter",
+        "url": "https://twitter.com/pgz_io"
+      },
+      "instagram": {
+        "id": "instagram",
+        "url": "https://www.instagram.com/pgz_io/"
+      },
+      "tiktok": {
+        "id": "tiktok",
+        "url": "https://www.tiktok.com/@pgz_io"
+      },
+      "medium": {
+        "id": "medium",
+        "url": "https://medium.com/@pgz_io "
+      },
+      "youtube": {
+        "id": "youtube",
+        "url": "https://www.youtube.com/channel/UCWUQ3LP2taSRVvkSNDEZEBA"
+      },
+      "website": {
+        "id": "website",
+        "url": "https://playgroundzero.io/"
+      }
+    }
+  },
+  {
+    "id": "automotivedao",
+    "name": "Decentralized Automotive Organization",
+    "verified": false,
+	  "image": "https://avatars.githubusercontent.com/u/105350478?s=200&v=4",
+    "description":
+      "The Decentralized Automotive Organization is a Decentralized Autonomous Organization composed of people with diverse expertise that will help on the production, development and globalization of local automotive brands in the Philippines",
+    "tags": [
+      "dao",
+      "community",
+      "company"
+    ],
+    "links": {
+      "twitter": {
+        "id": "twitter",
+        "url": "https://twitter.com/automotivedao"
+      }
+    }
+  },
+  {
+    "id": "tiny-geisha",
+    "name": "Tiny Geisha",
+    "verified": false,
+	  "image": "https://avatars.githubusercontent.com/u/105350478?s=200&v=4",
+    "description":
+      "Your Guide to Japanese Culture Lucky 7,777 generative NFTs that will grant you charms and perks. Inspired by the beauty of Japan, Tiny Geisha would like to bring this to you at the comforts of your home. This NFT will bridge us through the metaverse and reality.",
+    "tags": [
+      "metaverse",
+      "collectibles",
+      "nft"
+    ],
+    "links": {
+      "website": {
+        "id": "website",
+        "url": "http://www.tinygeisha.com/"
+      }
+    }
+  },
+  {
+    "id": "cryptoguppies",
+    "name": "CRYPTOGUPPIES",
+    "verified": false,
+	  "image": "https://avatars.githubusercontent.com/u/105350478?s=200&v=4",
+    "description":
+      "Cryptoguppies is an NFT project with 3,000 collections of Guppy Fishes with lots of color combination and limitless concepts under Polygon Network, It is also a people-driven project which offers  a healthy and growing community that values mental health, music and arts enthusiasm, agricultural advocacy, and innovation.",
+    "tags": [
+      "community",
+      "nft",
+      "collectibles"
+    ],
+    "links": {
+      "discord": {
+        "id": "discord",
+        "url": "https://discord.gg/csWQj3Wy"
+      },
+      "twitter": {
+        "id": "twitter",
+        "url": "https://twitter.com/CryptoguppiesTw"
+      }
+    }
+  },
+  {
+    "id": "kryptomon",
+    "name": "Kryptomon",
+    "verified": false,
+	  "image": "https://avatars.githubusercontent.com/u/105350478?s=200&v=4",
+    "description":
+      "Kryptomon is an NFT Play-and-Earn Web3 Game, set in the Kryptomon Metaverse, community members play as ‘Trainers’ of their own individual monsters — Kryptomon’s — each of which is a completely unique digital asset connected to an NFT. Each has a unique but mutable genetic code made up of 38 randomised parameters that determine all of the aspects — physical and behavioural — of the creature. ",
+    "tags": [
+      "community",
+      "pae",
+      "game",
+      "nft",
+      "metaverse"
+    ],
+    "links": {
+      "website": {
+        "id": "website",
+        "url": "https://www.kryptomon.co/"
+      }
+    }
+  },
+  {
+    "id": "blockpinas",
+    "name": "BlockPinas",
+    "verified": false,
+	  "image": "https://avatars.githubusercontent.com/u/105350478?s=200&v=4",
+    "description":
+      "Blockchain, crypto, and web3 media organization",
+    "tags": [
+      "media",
+      "organization"
+    ],
+    "links": {
+      "website": {
+        "id": "website",
+        "url": "https://www.blockpinas.com/"
+      }
+    }
+  },
+  {
+    "id": "chibverse",
+    "name": "Chibverse",
+    "verified": false,
+	  "image": "https://avatars.githubusercontent.com/u/105350478?s=200&v=4",
+    "description":
+      "Chibverse is collective NFTs that can be minted using a polygon network with cool and unique looks that will melt your heart.",
+    "tags": [
+      "collection",
+      "nft"
+    ],
+    "links": {
+      "discord": {
+        "id": "discord",
+        "url": "https://discord.gg/cUbajFtmvX"
+      },
+      "twitter": {
+        "id": "twitter",
+        "url": "https://twitter.com/ChibNft"
+      },
+      "website": {
+        "id": "website",
+        "url": "https://chibverse.vercel.app/"
+      }
+    }
+  },
+  {
+    "id": "x3",
+    "name": "X3",
+    "verified": false,
+	  "image": "https://avatars.githubusercontent.com/u/105350478?s=200&v=4",
+    "description":
+      "Web3 Custom Development & IT Talent Outsourcing",
+    "tags": [
+      "company",
+      "solutions"
+    ],
+    "links": {
+      "website": {
+        "id": "website",
+        "url": "www.x-3.io"
+      }
+    }
+  },
+  {
+    "id": "arkayv",
+    "name": "ARKAYV",
+    "verified": false,
+	  "image": "https://avatars.githubusercontent.com/u/105350478?s=200&v=4",
+    "description":
+      "Virtual Property Marketplace. ARKAYV is a webapp for trading Architecture & Design as NFTs.",
+    "tags": [
+      "marketplace",
+      "nft"
+    ],
+    "links": {
+      "discord": {
+        "id": "discord",
+        "url": "https://discord.gg/kfMsbTwywQ"
+      },
+      "facebook": {
+        "id": "facebook",
+        "url": "https://facebook.com/web3ph"
+      },
+      "twitter": {
+        "id": "twitter",
+        "url": "https://twitter.com/ARKAYVcom"
+      },
+      "instagram": {
+        "id": "instagram",
+        "url": "https://www.instagram.com/arkayvcom/"
+      },
+      "medium": {
+        "id": "medium",
+        "url": "https://arkayv.medium.com/"
+      },
+      "linkedin": {
+        "id": "linkedin",
+        "url": "https://www.linkedin.com/company/arkayv/"
+      },
+      "website": {
+        "id": "website",
+        "url": "https://www.arkayv.com/"
+      }
+    }
+  },
+  {
+    "id": "gryph",
+    "name": "Gryph",
+    "verified": false,
+	  "image": "https://avatars.githubusercontent.com/u/105350478?s=200&v=4",
+    "description":
+      "The Future of Blockchain Technology",
+    "tags": [
+      "company",
+      "technology"
+    ],
+    "links": {
+      "website": {
+        "id": "website",
+        "url": "https://gry.ph"
+      }
+    }
+  },
+  {
+    "id": "rising-eggplants",
+    "name": "Rising Eggplants",
+    "verified": false,
+	  "image": "https://avatars.githubusercontent.com/u/105350478?s=200&v=4",
+    "description":
+      "Rising Eggplants is a collection of 2222 eggplants that will soon rise in the Polygon Blockchain. It aims to connect people, support local artists, and promote social involvement. Aside from being a chill and fun project, the vision for the community is for it to be engaged in social, artistic, and fun activities with the help of experts and community members. Together with our eggplants, rise with us!",
+    "tags": [
+      "community",
+      "nft",
+      "collection"
+    ],
+    "links": {
+      "discord": {
+        "id": "discord",
+        "url": "https://discord.gg/talong"
+      },
+      "twitter": {
+        "id": "twitter",
+        "url": "https://twitter.com/risingeggplants "
+      }
+    }
+  },
+  {
+    "id": "draper-startup-house-manila",
+    "name": "Draper Startup House Manila",
+    "verified": false,
+	  "image": "https://avatars.githubusercontent.com/u/105350478?s=200&v=4",
+    "description":
+      "Draper Startup House Manila is the hub of web3 startups. We connect, inspire, and empower the Web3 community in our physical space with our events such as Bitcoin, Beer & Bitstories monthly meetup. We are also a venture studio, with projects like Artist Collective empowering artists through our residency & incubation program, in partnership with NFT platforms. We are also starting to transition and integrate our hospitality services in the metaverse by tokenizing our hotel (Bitcoin payment etc.)",
+    "tags": [
+      "community",
+      "venture",
+      "eventsplace"
+    ],
+    "links": {
+      "website": {
+        "id": "website",
+        "url": "https://draperstartuphouse.notion.site/Draper-Startup-House-Manila-efeea61dba9943d79552dfb7dbf3bff9"
+      }
+    }
+  },
+  {
+    "id": "pixel-hammy-ville",
+    "name": "Pixel Hammy Ville",
+    "verified": false,
+	  "image": "https://avatars.githubusercontent.com/u/105350478?s=200&v=4",
+    "description":
+      "A community for animal lovers, NFT collectors and crypto enthusiasts. An NFT collection of unique animated Pixel Arts with only 111 supply in the 1st Collection and with 4,444 supply in the Generative 2nd Collection. We have an upcoming mobile game about hamsters where the player will take care of them like the popular mobile game Pou and the nostalgic Tamagochi. HAGMI!",
+    "tags": [
+      "community",
+      "nft",
+      "collection"
+    ],
+    "links": {
+      "discord": {
+        "id": "discord",
+        "url": "https://discord.gg/FWy3Zmn4xh"
+      },
+      "facebook": {
+        "id": "facebook",
+        "url": "https://fb.me/PixelHammyVilleNFT"
+      },
+      "twitter": {
+        "id": "twitter",
+        "url": "https://twitter.com/PixelHammyVille"
+      },
+      "instagram": {
+        "id": "instagram",
+        "url": "https://www.instagram.com/pixelhammyville.nft/"
+      },
+      "tiktok": {
+        "id": "tiktok",
+        "url": "https://www.tiktok.com/@pixelhammyvillenft"
+      },
+      "opensea": {
+        "id": "opensea",
+        "url": "https://opensea.io/collection/pixelhammyvillenft"
+      },
+      "website": {
+        "id": "website",
+        "url": "https://pixelhammyville.com/"
+      }
+    }
+  },
+  {
+    "id": "pillow-fund",
+    "name": "Pillow Fund",
+    "verified": false,
+	  "image": "https://avatars.githubusercontent.com/u/105350478?s=200&v=4",
+    "description":
+      "Pillow Fund is a global crypto savings app which lets users earn up to 50% interest on their crypto seamlessly.",
+    "tags": [
+      "app",
+      "technology",
+      "company"
+    ],
+    "links": {
+      "twitter": {
+        "id": "twitter",
+        "url": "https://twitter.com/PillowFund"
+      },
+      "website": {
+        "id": "website",
+        "url": "https://www.pillow.fund"
+      }
+    }
+  },
+  {
+    "id": "ikigai-animation-studio",
+    "name": "Ikigai Animation Studio",
+    "verified": false,
+	  "image": "https://avatars.githubusercontent.com/u/105350478?s=200&v=4",
+    "description":
+      "Multimedia and Marketing Agency",
+    "tags": [
+      "company",
+      "multimedia",
+      "marketing"
+    ],
+    "links": {
+      "website": {
+        "id": "website",
+        "url": "https://www.ikigaianimationstudio.com/"
+      }
+    }
+  },
+  {
+    "id": "the-newbs",
+    "name": "The Newbs",
+    "verified": false,
+	  "image": "https://avatars.githubusercontent.com/u/105350478?s=200&v=4",
+    "description":
+      "The Newbs - a collection of 9,999 randomly generated NFTs built from 218 unique traits, 4 specials, and 15 1/1s. They are a human-like species, Homo erectus version, in the world of web3. We are a group of Newbs that will explore and learn what we can do on the web3. The Newbs will seek information until they evolve into intelligent being. Our goal is to grow together in the world of web3 as a community and bring our brand to life. 🔥",
+    "tags": [
+      "community",
+      "nft",
+      "collection"
+    ],
+    "links": {
+      "discord": {
+        "id": "discord",
+        "url": "https://discord.gg/rnTsEUhgaK"
+      },
+      "facebook": {
+        "id": "facebook",
+        "url": "https://www.facebook.com/thenewbsnft/"
+      },
+      "twitter": {
+        "id": "twitter",
+        "url": "https://twitter.com/thenewbs_nft"
+      },
+      "opensea": {
+        "id": "opensea",
+        "url": "https://opensea.io/collection/the-newbs"
+      }
+    }
+  },
+  {
+    "id": "delysium",
+    "name": "Delysium",
+    "verified": false,
+	  "image": "https://avatars.githubusercontent.com/u/105350478?s=200&v=4",
+    "description":
+      "A brief intro to one of our works (Delysium) : We are an open-world, AI-powered and completely player-owned MMO triple A blockchain game that supports players in creating various personalized physical assets, narrative assets together with native AI MetaBeings. What we are building is an immersive, supreme as well as dynamically generated open-world experience 😊 ",
+    "tags": [
+      "company",
+      "game",
+      "technology",
+      "ai"
+    ],
+    "links": {
+      "discord": {
+        "id": "discord",
+        "url": "https://discord.gg/delysium"
+      },
+      "telegram": {
+        "id": "telegram",
+        "url": "https://t.me/TheDelysium"
+      },
+      "twitter": {
+        "id": "twitter",
+        "url": "https://twitter.com/The_Delysium"
+      },
+      "deck": {
+        "id": "deck",
+        "url": "https://docsend.com/view/vf758rmxpja9c3us"
+      },
+      "website": {
+        "id": "website",
+        "url": "https://delysium.com/"
+      }
+    }
+  },
+  {
+    "id": "pzoo",
+    "name": "PZOO",
+    "verified": false,
+	  "image": "https://avatars.githubusercontent.com/u/105350478?s=200&v=4",
+    "description":
+      "PZOO helps to build, design, operate, and govern blockchain solutions across many industries using trusted processes and technology. PZOO opens new doors for creatives and web users to new styles of digital interactions, trust, assets, applications, web tools, identity management, and experiences. ",
+    "tags": [
+      "solutions",
+      "tool",
+      "company"
+    ],
+    "links": {
+      "discord": {
+        "id": "discord",
+        "url": "https://discord.gg/vJqWsMyJUZ"
+      },
+      "facebook": {
+        "id": "facebook",
+        "url": "https://facebook.com/pzootech"
+      },
+      "twitter": {
+        "id": "twitter",
+        "url": "https://twitter.com/pzootech"
+      },
+      "medium": {
+        "id": "medium",
+        "url": "https://particlezoo.medium.com/"
+      },
+      "website": {
+        "id": "website",
+        "url": "https://pzooweb.vercel.app"
+      }
+    }
+  },
+  {
+    "id": "heroes-uprising",
+    "name": "Heroes Uprising",
+    "verified": false,
+	  "image": "https://avatars.githubusercontent.com/u/105350478?s=200&v=4",
+    "description":
+      "A fantasy-themed Free-to-Play and Play-and-Earn turn-based RPG card game in which players can earn rewards through battling.",
+    "tags": [
+      "community",
+      "f2p",
+      "pae",
+      "game",
+      "nft",
+      "collection"
+    ],
+    "links": {
+      "discord": {
+        "id": "discord",
+        "url": "https://discord.gg/RTMxT9p9Mw"
+      },
+      "facebook": {
+        "id": "facebook",
+        "url": "https://www.facebook.com/HeroesUprising"
+      },
+      "twitter": {
+        "id": "twitter",
+        "url": "https://twitter.com/HeroesUprising"
+      },
+      "medium": {
+        "id": "medium",
+        "url": "https://medium.com/@heroesuprising"
+      },
+      "reddit": {
+        "id": "reddit",
+        "url": "https://www.reddit.com/user/HeroesUprising"
+      },
+      "website": {
+        "id": "website",
+        "url": "https://heroesuprising.com "
+      }
+    }
+  },
+  {
+    "id": "anuraverse",
+    "name": "Anuraverse",
+    "verified": false,
+	  "image": "https://avatars.githubusercontent.com/u/105350478?s=200&v=4",
+    "description":
+      "A story-based NFT collectible about the exciting and eventful universe of Anuraverse.",
+    "tags": [
+      "community",
+      "nft",
+      "collection"
+    ],
+    "links": {
+      "discord": {
+        "id": "discord",
+        "url": "https://discord.gg/V6Na9B5Qxv"
+      },
+      "twitter": {
+        "id": "twitter",
+        "url": "https://twitter.com/ANURAVERSE"
+      },
+      "instagram": {
+        "id": "instagram",
+        "url": "https://www.instagram.com/anuraverse/"
+      },
+      "website": {
+        "id": "website",
+        "url": "https://anuraverse.com/"
+      }
+    }
+  },
+  {
+    "id": "pnguin",
+    "name": "PNGUIN",
+    "verified": false,
+	  "image": "https://avatars.githubusercontent.com/u/105350478?s=200&v=4",
+    "description":
+      "PNGUIN powered by Gibki Labs Corporation will innovate traditional business technology by pioneering web3 business tools and software. We empowers builders, creators, and businesses with an ecosystem of tools to utilize web3 in their exclusive communities, to bring the same functionality, speed and convenience without compromises.",
+    "tags": [
+      "solution",
+      "company",
+      "technology"
+    ],
+    "links": {
+      "twitter": {
+        "id": "twitter",
+        "url": "https://twitter.com/pnguin_hq"
+      }
+    }
+  },
+  {
+    "id": "greedy-takeshis",
+    "name": "Greedy Takeshis",
+    "verified": false,
+	  "image": "https://avatars.githubusercontent.com/u/105350478?s=200&v=4",
+    "description":
+      "A utility-driven NFT, aiming to support Philippine-based local graphic artists. We are also working on a undisclosed metaverse-like platform.",
+    "tags": [
+      "community",
+      "nft",
+      "metaverse",
+      "collection"
+    ],
+    "links": {
+      "twitter": {
+        "id": "twitter",
+        "url": "https://twitter.com/DAZEEface"
+      }
+    }
+  },
+  {
+    "id": "nfthost",
+    "name": "NFTHost",
+    "verified": true,
+	  "image": "https://avatars.githubusercontent.com/u/105350478?s=200&v=4",
+    "description":
+      "NFT Host is a website where you can generate NFT collections and create NFT minting website. We provide the fastest and cheapest NFT generator in the market. Mint website features includes prebuilt templates, addons, aliases, and more. We also offer metadata file utilities.",
+    "tags": [
+      "service",
+      "technology",
+      "solution",
+      "company"
+    ],
+    "links": {
+      "website": {
+        "id": "website",
+        "url": "https://www.nfthost.app/"
+      }
+    }
+  },
+  {
+    "id": "coin-vault-ph",
+    "name": "Coin Vault PH",
+    "verified": true,
+	  "image": "https://avatars.githubusercontent.com/u/105350478?s=200&v=4",
+    "description":
+      "Hardware wallet importer",
+    "tags": [
+      "company",
+      "store"
+    ],
+    "links": {
+      "facebook": {
+        "id": "facebook",
+        "url": "https://www.facebook.com/CoinVaultPh"
+      },
+      "twitter": {
+        "id": "twitter",
+        "url": "https://twitter.com/CoinvaultPH"
+      },
+      "instagram": {
+        "id": "instagram",
+        "url": "https://www.instagram.com/coinvaultph/"
+      },
+      "tiktok": {
+        "id": "tiktok",
+        "url": "https://www.tiktok.com/@coinvaultph"
+      },
+      "linkedin": {
+        "id": "linkedin",
+        "url": "https://www.linkedin.com/company/coin-vault-ph/ "
+      },      
+      "website": {
+        "id": "website",
+        "url": "https://www.coinvaultph.com/"
       }
     }
   }
