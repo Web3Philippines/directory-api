@@ -1331,7 +1331,7 @@
   {
     "id": "greedy-takeshis",
     "name": "Greedy Takeshis",
-    "verified": true,
+    "verified": false,
 	  "image": "https://avatars.githubusercontent.com/u/105350478?s=200&v=4",
     "description":
       "A utility-driven NFT, aiming to support Philippine-based local graphic artists. We are also working on a undisclosed metaverse-like platform.",
@@ -1345,6 +1345,26 @@
       "twitter": {
         "id": "twitter",
         "url": "https://twitter.com/DAZEEface"
+      }
+    }
+  },
+  {
+    "id": "nfthost",
+    "name": "NFTHost",
+    "verified": true,
+	  "image": "https://avatars.githubusercontent.com/u/105350478?s=200&v=4",
+    "description":
+      "NFT Host is a website where you can generate NFT collections and create NFT minting website. We provide the fastest and cheapest NFT generator in the market. Mint website features includes prebuilt templates, addons, aliases, and more. We also offer metadata file utilities.",
+    "tags": [
+      "service",
+      "technology",
+      "solution",
+      "company"
+    ],
+    "links": {
+      "website": {
+        "id": "website",
+        "url": "https://www.nfthost.app/"
       }
     }
   }
