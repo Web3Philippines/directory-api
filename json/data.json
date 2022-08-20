@@ -1236,5 +1236,47 @@
         "url": "https://pzooweb.vercel.app"
       }
     }
+  },
+  {
+    "id": "heroes-uprising",
+    "name": "Heroes Uprising",
+    "verified": false,
+	  "image": "https://avatars.githubusercontent.com/u/105350478?s=200&v=4",
+    "description":
+      "A fantasy-themed Free-to-Play and Play-and-Earn turn-based RPG card game in which players can earn rewards through battling.",
+    "tags": [
+      "community",
+      "f2p",
+      "pae",
+      "game",
+      "nft",
+      "collection"
+    ],
+    "links": {
+      "discord": {
+        "id": "discord",
+        "url": "https://discord.gg/RTMxT9p9Mw"
+      },
+      "facebook": {
+        "id": "facebook",
+        "url": "https://www.facebook.com/HeroesUprising"
+      },
+      "twitter": {
+        "id": "twitter",
+        "url": "https://twitter.com/HeroesUprising"
+      },
+      "medium": {
+        "id": "medium",
+        "url": "https://medium.com/@heroesuprising"
+      },
+      "reddit": {
+        "id": "reddit",
+        "url": "https://www.reddit.com/user/HeroesUprising"
+      },
+      "website": {
+        "id": "website",
+        "url": "https://heroesuprising.com "
+      }
+    }
   }
 ]
