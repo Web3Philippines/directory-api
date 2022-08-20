@@ -1328,5 +1328,25 @@
         "url": "https://twitter.com/pnguin_hq"
       }
     }
+  },
+  {
+    "id": "greedy-takeshis",
+    "name": "Greedy Takeshis",
+    "verified": true,
+	  "image": "https://avatars.githubusercontent.com/u/105350478?s=200&v=4",
+    "description":
+      "A utility-driven NFT, aiming to support Philippine-based local graphic artists. We are also working on a undisclosed metaverse-like platform.",
+    "tags": [
+      "community",
+      "nft",
+      "metaverse",
+      "collection"
+    ],
+    "links": {
+      "twitter": {
+        "id": "twitter",
+        "url": "https://twitter.com/DAZEEface"
+      }
+    }
   }
 ]
