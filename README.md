@@ -62,14 +62,27 @@ DataObject (Sample)
         "id": "instagram",
         "url": ""
       },
+      "tiktok": {
+        "id": "tiktok",
+        "url": ""
+      },
       "medium": {
         "id": "medium",
+        "url": ""
+      },
+      "reddit": {
+        "id": "reddit",
         "url": ""
       },
       "youtube": {
         "id": "youtube",
         "url": ""
       },
+      "opensea": {
+        "id": "opensea",
+        "url": ""
+      },
+      
       "whitepaper": {
         "id": "whitepaper",
         "url": ""
