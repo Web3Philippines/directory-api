@@ -1049,5 +1049,48 @@
         "url": "https://draperstartuphouse.notion.site/Draper-Startup-House-Manila-efeea61dba9943d79552dfb7dbf3bff9"
       }
     }
+  },
+  {
+    "id": "web3philippines",
+    "name": "Pixel Hammy Ville",
+    "verified": false,
+	  "image": "https://avatars.githubusercontent.com/u/105350478?s=200&v=4",
+    "description":
+      "A community for animal lovers, NFT collectors and crypto enthusiasts. An NFT collection of unique animated Pixel Arts with only 111 supply in the 1st Collection and with 4,444 supply in the Generative 2nd Collection. We have an upcoming mobile game about hamsters where the player will take care of them like the popular mobile game Pou and the nostalgic Tamagochi. HAGMI!",
+    "tags": [
+      "community",
+      "nft",
+      "collection"
+    ],
+    "links": {
+      "discord": {
+        "id": "discord",
+        "url": "https://discord.gg/FWy3Zmn4xh"
+      },
+      "facebook": {
+        "id": "facebook",
+        "url": "https://fb.me/PixelHammyVilleNFT"
+      },
+      "twitter": {
+        "id": "twitter",
+        "url": "https://twitter.com/PixelHammyVille"
+      },
+      "instagram": {
+        "id": "instagram",
+        "url": "https://www.instagram.com/pixelhammyville.nft/"
+      },
+      "tiktok": {
+        "id": "tiktok",
+        "url": "https://www.tiktok.com/@pixelhammyvillenft"
+      },
+      "opensea": {
+        "id": "opensea",
+        "url": "https://opensea.io/collection/pixelhammyvillenft"
+      },
+      "website": {
+        "id": "website",
+        "url": "https://pixelhammyville.com/"
+      }
+    }
   }
 ]
