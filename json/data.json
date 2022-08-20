@@ -840,5 +840,28 @@
         "url": "http://www.tinygeisha.com/"
       }
     }
+  },
+  {
+    "id": "cryptoguppies",
+    "name": "CRYPTOGUPPIES",
+    "verified": false,
+	  "image": "https://avatars.githubusercontent.com/u/105350478?s=200&v=4",
+    "description":
+      "Cryptoguppies is an NFT project with 3,000 collections of Guppy Fishes with lots of color combination and limitless concepts under Polygon Network, It is also a people-driven project which offers  a healthy and growing community that values mental health, music and arts enthusiasm, agricultural advocacy, and innovation.",
+    "tags": [
+      "community",
+      "nft",
+      "collectibles"
+    ],
+    "links": {
+      "discord": {
+        "id": "discord",
+        "url": "https://discord.gg/csWQj3Wy"
+      },
+      "twitter": {
+        "id": "twitter",
+        "url": "https://twitter.com/CryptoguppiesTw"
+      }
+    }
   }
 ]
