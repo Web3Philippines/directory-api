@@ -757,5 +757,50 @@
         "url": "https://linkedin.com/company/rosepad-io"
       }
     }
+  },
+  {
+    "id": "olaygroundzerodotio",
+    "name": "Playgroundzero.io",
+    "verified": false,
+	  "image": "https://avatars.githubusercontent.com/u/105350478?s=200&v=4",
+    "description":
+      "Playgroundzero.io is a community-focused GameFi platform that connects gamers, guilds and GameFi studios. PGZ allows users to develop their brand, expand their network, and explore opportunities in GameFi. The platform offers user verification, messaging, and marketplace capabilities to promote a safe and easy way to form meaningful connections.",
+    "tags": [
+      "gamefi",
+      "community",
+      "gamer",
+      "guild",
+      "company"
+    ],
+    "links": {
+      "facebook": {
+        "id": "facebook",
+        "url": "https://www.facebook.com/playgroundzero.io/ "
+      },
+      "twitter": {
+        "id": "twitter",
+        "url": "https://twitter.com/pgz_io"
+      },
+      "instagram": {
+        "id": "instagram",
+        "url": "https://www.instagram.com/pgz_io/"
+      },
+      "tiktok": {
+        "id": "tiktok",
+        "url": "https://www.tiktok.com/@pgz_io"
+      },
+      "medium": {
+        "id": "medium",
+        "url": "https://medium.com/@pgz_io "
+      },
+      "youtube": {
+        "id": "youtube",
+        "url": "https://www.youtube.com/channel/UCWUQ3LP2taSRVvkSNDEZEBA"
+      },
+      "website": {
+        "id": "website",
+        "url": "https://playgroundzero.io/"
+      }
+    }
   }
 ]
