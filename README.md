@@ -82,7 +82,10 @@ DataObject (Sample)
         "id": "opensea",
         "url": ""
       },
-      
+      "linkedin": {
+        "id": "linkedin",
+        "url": ""
+      },      
       "whitepaper": {
         "id": "whitepaper",
         "url": ""
