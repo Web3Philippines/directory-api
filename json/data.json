@@ -1092,5 +1092,28 @@
         "url": "https://pixelhammyville.com/"
       }
     }
+  },
+  {
+    "id": "pillowfund",
+    "name": "Pillow Fund",
+    "verified": false,
+	  "image": "https://avatars.githubusercontent.com/u/105350478?s=200&v=4",
+    "description":
+      "Pillow Fund is a global crypto savings app which lets users earn up to 50% interest on their crypto seamlessly.",
+    "tags": [
+      "app",
+      "technology",
+      "company"
+    ],
+    "links": {
+      "twitter": {
+        "id": "twitter",
+        "url": "https://twitter.com/PillowFund"
+      },
+      "website": {
+        "id": "website",
+        "url": "https://www.pillow.fund"
+      }
+    }
   }
 ]
