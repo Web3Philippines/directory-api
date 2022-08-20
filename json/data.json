@@ -1278,5 +1278,36 @@
         "url": "https://heroesuprising.com "
       }
     }
+  },
+  {
+    "id": "anuraverse",
+    "name": "Anuraverse",
+    "verified": false,
+	  "image": "https://avatars.githubusercontent.com/u/105350478?s=200&v=4",
+    "description":
+      "A story-based NFT collectible about the exciting and eventful universe of Anuraverse.",
+    "tags": [
+      "community",
+      "nft",
+      "collection"
+    ],
+    "links": {
+      "discord": {
+        "id": "discord",
+        "url": "https://discord.gg/V6Na9B5Qxv"
+      },
+      "twitter": {
+        "id": "twitter",
+        "url": "https://twitter.com/ANURAVERSE"
+      },
+      "instagram": {
+        "id": "instagram",
+        "url": "https://www.instagram.com/anuraverse/"
+      },
+      "website": {
+        "id": "website",
+        "url": "https://anuraverse.com/"
+      }
+    }
   }
 ]
