@@ -1134,5 +1134,36 @@
         "url": "https://www.ikigaianimationstudio.com/"
       }
     }
+  },
+  {
+    "id": "the-newbs",
+    "name": "The Newbs",
+    "verified": false,
+	  "image": "https://avatars.githubusercontent.com/u/105350478?s=200&v=4",
+    "description":
+      "The Newbs - a collection of 9,999 randomly generated NFTs built from 218 unique traits, 4 specials, and 15 1/1s. They are a human-like species, Homo erectus version, in the world of web3. We are a group of Newbs that will explore and learn what we can do on the web3. The Newbs will seek information until they evolve into intelligent being. Our goal is to grow together in the world of web3 as a community and bring our brand to life. 🔥",
+    "tags": [
+      "community",
+      "nft",
+      "collection"
+    ],
+    "links": {
+      "discord": {
+        "id": "discord",
+        "url": "https://discord.gg/rnTsEUhgaK"
+      },
+      "facebook": {
+        "id": "facebook",
+        "url": "https://www.facebook.com/thenewbsnft/"
+      },
+      "twitter": {
+        "id": "twitter",
+        "url": "https://twitter.com/thenewbs_nft"
+      },
+      "opensea": {
+        "id": "opensea",
+        "url": "https://opensea.io/collection/the-newbs"
+      }
+    }
   }
 ]
