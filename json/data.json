@@ -988,5 +988,24 @@
         "url": "https://www.arkayv.com/"
       }
     }
+  },
+  ,
+  {
+    "id": "gryph",
+    "name": "Gryph",
+    "verified": false,
+	  "image": "https://avatars.githubusercontent.com/u/105350478?s=200&v=4",
+    "description":
+      "The Future of Blockchain Technology",
+    "tags": [
+      "company",
+      "technology"
+    ],
+    "links": {
+      "website": {
+        "id": "website",
+        "url": "https://gry.ph"
+      }
+    }
   }
 ]
