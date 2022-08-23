@@ -1388,5 +1388,35 @@
         "url": "https://www.coinvaultph.com/"
       }
     }
+  },
+  {
+    "id": "filipinas-nft",
+    "name": "Filipinas NFT",
+    "verified": true,
+	  "image": "https://avatars.githubusercontent.com/u/105350478?s=200&v=4",
+    "description":
+      "FilipinasNFT is a women-led community in the Philippines composed of creators, artists, collectors, and builders in the Web3 space. We aim to empower, educate, inspire, and support one another. Bonded by our love for art, music, and culture, this group is created for kindred spirits who need a safe space for exploration and discovery.",
+    "tags": [
+      "community",
+      "nft"
+    ],
+    "links": {
+      "facebook": {
+        "id": "facebook",
+        "url": "https://www.facebook.com/filipinasnft"
+      },
+      "twitter": {
+        "id": "twitter",
+        "url": "https://twitter.com/FilipinasNFT"
+      },
+      "instagram": {
+        "id": "instagram",
+        "url": "https://instagram.com/FilipinasNFT"
+      },
+      "website": {
+        "id": "website",
+        "url": "https://twitter.com/FilipinasNFT"
+      }
+    }
   }
 ]
