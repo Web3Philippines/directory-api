@@ -66,7 +66,8 @@ const handler = async (req, res) => {
     length: dataLength,
     hasNextPage: hasNextPage || false,
     currPage: page || 0,
-    currSize: size || dataLength
+    currSize: size || dataLength,
+    lastUpdated: 1661352693 // manual update in unix epoch timestamp
   }
 
   // respond with data

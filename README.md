@@ -24,7 +24,8 @@ JSON
 	length: number,
 	hasNextPage: bool,
 	currPage: number,
-	currSize: number
+	currSize: number,
+	lastUpdated: number // in Unix Epoch Timestamp
 }
 ```
 
