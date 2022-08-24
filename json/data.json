@@ -1418,5 +1418,27 @@
         "url": "https://twitter.com/FilipinasNFT"
       }
     }
+  },
+  {
+    "id": "metacrafters",
+    "name": "Metacrafters",
+    "verified": false,
+    "image": "https://avatars.githubusercontent.com/u/105350478?s=200&v=4",
+    "description": "Educating and onboarding the next 1,000,000 web3 developers.",
+    "tags": [
+      "community",
+      "organization",
+      "education"
+    ],
+    "links": {
+      "website": {
+        "id": "website",
+        "url": "https://metacrafters.io"
+      },
+      "discord": {
+        "id": "discord",
+        "url": "https://discord.gg/metacraftersio"
+      }
+    }
   }
 ]
