@@ -699,8 +699,8 @@
     }
   },
   {
-    "id": "rosepad",
-    "name": "RosePad",
+    "id": "rosehub",
+    "name": "RoseHub",
     "verified": true,
     "image": "https://avatars.githubusercontent.com/u/105350478?s=200&v=4",
     "description": "First Premium Launchpad-DEX-NFT platform on Oasis Network.",
@@ -713,19 +713,27 @@
     "links": {
       "website": {
         "id": "website",
-        "url": "https://rosepad.io"
+        "url": "https://rosehub.io"
       },
       "twitter": {
         "id": "twitter",
-        "url": "https://twitter.com/RosePadMedia"
+        "url": "https://twitter.com/RoseHubMedia"
       },
       "discord": {
         "id": "discord",
-        "url": "https://discord.com/invite/rosepad"
+        "url": "https://discord.com/invite/5D4kNTXDCe"
+      },
+      "telegram": {
+        "id": "telegram",
+        "url": "https://t.me/RoseHubMedia"
+      },
+      "medium": {
+        "id": "medium",
+        "url": "https://rosehub.medium.com/"
       },
       "linkedin": {
         "id": "linkedin",
-        "url": "https://linkedin.com/company/rosepad-io"
+        "url": "https://www.linkedin.com/company/rosehub-io/"
       }
     }
   },
