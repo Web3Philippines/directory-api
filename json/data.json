@@ -1421,5 +1421,227 @@
         "url": "https://discord.gg/metacraftersio"
       }
     }
+  },
+  {
+    "id": "mythosis_nft",
+    "name": "Mythosis NFT",
+    "verified": false,
+	  "image": "https://avatars.githubusercontent.com/u/105350478?s=200&v=4",
+    "description": "A collection of Philippine Mythological Creature-inspired NFTs.",
+    "tags": [
+      "community",
+      "nft"
+    ],
+    "links": {
+      "discord": {
+        "id": "discord",
+        "url": "https://discord.com/invite/ZGf2GKzRJt"
+      },
+      "twitter": {
+        "id": "twitter",
+        "url": "https://twitter.com/MythosisNFT"
+      },
+      "youtube": {
+        "id": "youtube",
+        "url": "https://youtube.com/MythosisNFT"
+      },
+      "website": {
+        "id": "website",
+        "url": "https://twitter.com/MythosisNFT"
+      }
+    }
+  },
+  {
+    "id": "aaronicstyle",
+    "name": "AaronicStyle",
+    "verified": false,
+	  "image": "https://avatars.githubusercontent.com/u/105350478?s=200&v=4",
+    "description":
+      "A showcase of visual creativity, from illustrations, designs, industrial arts and patterns, so on to Web3 for the different NFT Art projects and designing assets.",
+    "tags": [
+      "service",
+      "nft"
+    ],
+    "links": {
+      "twitter": {
+        "id": "twitter",
+        "url": "https://twitter.com/aaronicstyle"
+      },
+      "website": {
+        "id": "website",
+        "url": "https://twitter.com/aaronicstyle"
+      }
+    }
+  },
+  {
+    "id": "burning_dragons",
+    "name": "Burning Dragons",
+    "verified": false,
+	  "image": "https://avatars.githubusercontent.com/u/105350478?s=200&v=4",
+    "description":
+      "We are BURNING DRAGONS, the first NFT Art Project that ties to a novel and a multiverse full of lore. The first novel NFT project. A collection of unique DRAGOONS- Dragons living among the humans. Long ago, tragedy struck and caused the Dragons of the world to metamorphose into their greatest adversaries - humans. Not everyone is given the chance to become a dragon, and our project aims to raise those that are unfortunate to become the next world leaders.",
+    "tags": [
+      "community",
+      "nft"
+    ],
+    "links": {
+      "twitter": {
+        "id": "twitter",
+        "url": "https://twitter.com/BurnDragonsNFT"
+      },
+      "website": {
+        "id": "website",
+        "url": "https://twitter.com/BurnDragonsNFT"
+      }
+    }
+  },
+  {
+    "id": "sparklearn_edtech",
+    "name": "SparkLearn EdTech",
+    "verified": false,
+	  "image": "https://avatars.githubusercontent.com/u/105350478?s=200&v=4",
+    "description":
+      "SparkLearn EdTech is an online upskilling platform for blockchain tech & web3 education in the Philippines.",
+    "tags": [
+      "community",
+      "education"
+    ],
+    "links": {
+      "facebook": {
+        "id": "facebook",
+        "url": " https://lrn.ac/facebook"
+      },
+      "twitter": {
+        "id": "twitter",
+        "url": "https://lrn.ac/twitter"
+      },
+      "instagram": {
+        "id": "instagram",
+        "url": "https://lrn.ac/instagram"
+      },
+      "youtube": {
+        "id": "youtube",
+        "url": "https://lrn.ac/youtube"
+      },
+      "linkedin": {
+        "id": "linkedin",
+        "url": "https://lrn.ac/linkedin"
+      },      
+      "github": {
+        "id": "github",
+        "url": "https://lrn.ac/github"
+      },
+      "website": {
+        "id": "website",
+        "url": "https://lrn.ac/about"
+      }
+    }
+  },
+  {
+    "id": "global_communities_for_peoples",
+    "name": "Global Communities for Peoples",
+    "verified": false,
+	  "image": "https://avatars.githubusercontent.com/u/105350478?s=200&v=4",
+    "description":
+      "GLOBÁLNE KOMUNITY PRE ŽIVOT ĽUDÍ je projektom občianskeho združenia Globálne vzdelávanie, zdravie, veda a šport pre život ľudí a McSAKI Blockchain",
+    "tags": [
+      "community"
+    ],
+    "links": {
+      "facebook": {
+        "id": "facebook",
+        "url": "https://Facebook.com/globalcivilassociation"
+      },
+      "website": {
+        "id": "website",
+        "url": "https://Facebook.com/globalcivilassociation"
+      }
+    }
+  },
+  {
+    "id": "scarletbox",
+    "name": "ScarletBox",
+    "verified": false,
+	  "image": "https://avatars.githubusercontent.com/u/105350478?s=200&v=4",
+    "description":
+      "We aim to bring honored world class artists to be appreciated with a more dynamic experience by a wider audience. And with it, we add transparency and preservation to the mix through non-fungible tokens (NFTs).",
+    "tags": [
+      "community",
+      "nft",
+      "service"
+    ],
+    "links": {
+      "discord": {
+        "id": "discord",
+        "url": "http://discord.gg/scarletbox"
+      },
+      "facebook": {
+        "id": "facebook",
+        "url": "https://www.facebook.com/scarletbox.io"
+      },
+      "twitter": {
+        "id": "twitter",
+        "url": "https://twitter.com/Scarletbox_io"
+      },
+      "instagram": {
+        "id": "instagram",
+        "url": "https://www.instagram.com/scarletbox.io"
+      },
+      "website": {
+        "id": "website",
+        "url": "https://scarletbox.io/"
+      }
+    }
+  },
+  {
+    "id": "aswang_tribe",
+    "name": "Aswang Tribe",
+    "verified": false,
+	  "image": "https://avatars.githubusercontent.com/u/105350478?s=200&v=4",
+    "description":
+      "Aswang Tribe is a collection of 3333 utility-infused NFTs inspired by Filipino mythology.This vastly diverse set of profile picture art gives you access to a one-of-a-kind digital collectible ecosystem that features Day 1 Staking, Day 1 Breeding, and one of the most wildly creative communities in web3.",
+    "tags": [
+      "community",
+      "nft"
+    ],
+    "links": {
+      "twitter": {
+        "id": "twitter",
+        "url": "https://twitter.com/AswangTribe"
+      },
+      "website": {
+        "id": "website",
+        "url": "https://www.aswangtribe.com/"
+      }
+    }
+  },
+  {
+    "id": "filipino_crypto_community_managers",
+    "name": "Filipino Crypto Community Managers",
+    "verified": false,
+	  "image": "https://avatars.githubusercontent.com/u/105350478?s=200&v=4",
+    "description":
+      "Central Hub for Filipino Web3 Community Leaders,Developers, Managers and Moderators",
+    "tags": [
+      "community"
+    ],
+    "links": {
+      "telegram": {
+        "id": "telegram",
+        "url": "https://t.me/Filipinocryptomanagers"
+      },
+      "facebook": {
+        "id": "facebook",
+        "url": "https://www.facebook.com/groups/filipinocryptocommunitymanagers"
+      },
+      "twitter": {
+        "id": "twitter",
+        "url": "https://twitter.com/FilCommun3"
+      },
+      "website": {
+        "id": "website",
+        "url": "https://www.facebook.com/groups/filipinocryptocommunitymanagers"
+      }
+    }
   }
 ]
