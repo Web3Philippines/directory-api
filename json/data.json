@@ -1538,27 +1538,6 @@
     }
   },
   {
-    "id": "global_communities_for_peoples",
-    "name": "Global Communities for Peoples",
-    "verified": false,
-	  "image": "https://avatars.githubusercontent.com/u/105350478?s=200&v=4",
-    "description":
-      "GLOBÁLNE KOMUNITY PRE ŽIVOT ĽUDÍ je projektom občianskeho združenia Globálne vzdelávanie, zdravie, veda a šport pre život ľudí a McSAKI Blockchain",
-    "tags": [
-      "community"
-    ],
-    "links": {
-      "facebook": {
-        "id": "facebook",
-        "url": "https://Facebook.com/globalcivilassociation"
-      },
-      "website": {
-        "id": "website",
-        "url": "https://Facebook.com/globalcivilassociation"
-      }
-    }
-  },
-  {
     "id": "scarletbox",
     "name": "ScarletBox",
     "verified": false,
