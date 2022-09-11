@@ -703,7 +703,7 @@
     "name": "RoseHub",
     "verified": true,
     "image": "https://avatars.githubusercontent.com/u/105350478?s=200&v=4",
-    "description": "First Premium Launchpad-DEX-NFT platform on Oasis Network.",
+    "description": "RoseHub is a Premium DeFi platform on Oasis Network with DEX, aggregated liquidity, staking, launchpad and more.",
     "tags": [
       "dapp",
       "defi",
@@ -1419,6 +1419,265 @@
       "discord": {
         "id": "discord",
         "url": "https://discord.gg/metacraftersio"
+      }
+    }
+  },
+  {
+    "id": "mythosis_nft",
+    "name": "Mythosis NFT",
+    "verified": false,
+	  "image": "https://avatars.githubusercontent.com/u/105350478?s=200&v=4",
+    "description": "A collection of Philippine Mythological Creature-inspired NFTs.",
+    "tags": [
+      "community",
+      "nft"
+    ],
+    "links": {
+      "discord": {
+        "id": "discord",
+        "url": "https://discord.com/invite/ZGf2GKzRJt"
+      },
+      "twitter": {
+        "id": "twitter",
+        "url": "https://twitter.com/MythosisNFT"
+      },
+      "youtube": {
+        "id": "youtube",
+        "url": "https://youtube.com/MythosisNFT"
+      },
+      "website": {
+        "id": "website",
+        "url": "https://twitter.com/MythosisNFT"
+      }
+    }
+  },
+  {
+    "id": "aaronicstyle",
+    "name": "AaronicStyle",
+    "verified": false,
+	  "image": "https://avatars.githubusercontent.com/u/105350478?s=200&v=4",
+    "description":
+      "A showcase of visual creativity, from illustrations, designs, industrial arts and patterns, so on to Web3 for the different NFT Art projects and designing assets.",
+    "tags": [
+      "service",
+      "nft"
+    ],
+    "links": {
+      "twitter": {
+        "id": "twitter",
+        "url": "https://twitter.com/aaronicstyle"
+      },
+      "website": {
+        "id": "website",
+        "url": "https://twitter.com/aaronicstyle"
+      }
+    }
+  },
+  {
+    "id": "burning_dragons",
+    "name": "Burning Dragons",
+    "verified": false,
+	  "image": "https://avatars.githubusercontent.com/u/105350478?s=200&v=4",
+    "description":
+      "We are BURNING DRAGONS, the first NFT Art Project that ties to a novel and a multiverse full of lore. The first novel NFT project. A collection of unique DRAGOONS- Dragons living among the humans. Long ago, tragedy struck and caused the Dragons of the world to metamorphose into their greatest adversaries - humans. Not everyone is given the chance to become a dragon, and our project aims to raise those that are unfortunate to become the next world leaders.",
+    "tags": [
+      "community",
+      "nft"
+    ],
+    "links": {
+      "twitter": {
+        "id": "twitter",
+        "url": "https://twitter.com/BurnDragonsNFT"
+      },
+      "website": {
+        "id": "website",
+        "url": "https://twitter.com/BurnDragonsNFT"
+      }
+    }
+  },
+  {
+    "id": "sparklearn_edtech",
+    "name": "SparkLearn EdTech",
+    "verified": false,
+	  "image": "https://avatars.githubusercontent.com/u/105350478?s=200&v=4",
+    "description":
+      "SparkLearn EdTech is an online upskilling platform for blockchain tech & web3 education in the Philippines.",
+    "tags": [
+      "community",
+      "education"
+    ],
+    "links": {
+      "facebook": {
+        "id": "facebook",
+        "url": " https://lrn.ac/facebook"
+      },
+      "twitter": {
+        "id": "twitter",
+        "url": "https://lrn.ac/twitter"
+      },
+      "instagram": {
+        "id": "instagram",
+        "url": "https://lrn.ac/instagram"
+      },
+      "youtube": {
+        "id": "youtube",
+        "url": "https://lrn.ac/youtube"
+      },
+      "linkedin": {
+        "id": "linkedin",
+        "url": "https://lrn.ac/linkedin"
+      },      
+      "github": {
+        "id": "github",
+        "url": "https://lrn.ac/github"
+      },
+      "website": {
+        "id": "website",
+        "url": "https://lrn.ac/about"
+      }
+    }
+  },
+  {
+    "id": "scarletbox",
+    "name": "ScarletBox",
+    "verified": false,
+	  "image": "https://avatars.githubusercontent.com/u/105350478?s=200&v=4",
+    "description":
+      "We aim to bring honored world class artists to be appreciated with a more dynamic experience by a wider audience. And with it, we add transparency and preservation to the mix through non-fungible tokens (NFTs).",
+    "tags": [
+      "community",
+      "nft",
+      "service"
+    ],
+    "links": {
+      "discord": {
+        "id": "discord",
+        "url": "http://discord.gg/scarletbox"
+      },
+      "facebook": {
+        "id": "facebook",
+        "url": "https://www.facebook.com/scarletbox.io"
+      },
+      "twitter": {
+        "id": "twitter",
+        "url": "https://twitter.com/Scarletbox_io"
+      },
+      "instagram": {
+        "id": "instagram",
+        "url": "https://www.instagram.com/scarletbox.io"
+      },
+      "website": {
+        "id": "website",
+        "url": "https://scarletbox.io/"
+      }
+    }
+  },
+  {
+    "id": "aswang_tribe",
+    "name": "Aswang Tribe",
+    "verified": false,
+	  "image": "https://avatars.githubusercontent.com/u/105350478?s=200&v=4",
+    "description":
+      "Aswang Tribe is a collection of 3333 utility-infused NFTs inspired by Filipino mythology.This vastly diverse set of profile picture art gives you access to a one-of-a-kind digital collectible ecosystem that features Day 1 Staking, Day 1 Breeding, and one of the most wildly creative communities in web3.",
+    "tags": [
+      "community",
+      "nft"
+    ],
+    "links": {
+      "twitter": {
+        "id": "twitter",
+        "url": "https://twitter.com/AswangTribe"
+      },
+      "website": {
+        "id": "website",
+        "url": "https://www.aswangtribe.com/"
+      }
+    }
+  },
+  {
+    "id": "filipino_crypto_community_managers",
+    "name": "Filipino Crypto Community Managers",
+    "verified": false,
+	  "image": "https://avatars.githubusercontent.com/u/105350478?s=200&v=4",
+    "description":
+      "Central Hub for Filipino Web3 Community Leaders,Developers, Managers and Moderators",
+    "tags": [
+      "community"
+    ],
+    "links": {
+      "telegram": {
+        "id": "telegram",
+        "url": "https://t.me/Filipinocryptomanagers"
+      },
+      "facebook": {
+        "id": "facebook",
+        "url": "https://www.facebook.com/groups/filipinocryptocommunitymanagers"
+      },
+      "twitter": {
+        "id": "twitter",
+        "url": "https://twitter.com/FilCommun3"
+      },
+      "website": {
+        "id": "website",
+        "url": "https://www.facebook.com/groups/filipinocryptocommunitymanagers"
+      }
+    }
+  },
+  {
+    "id": "superordinary_friends",
+    "name": "Superordinary Friends",
+    "verified": false,
+	  "image": "https://avatars.githubusercontent.com/u/105350478?s=200&v=4",
+    "description":
+      "Built on the foundation that food brings people together, Superordinary Friends is an exclusive food and experience NFT project comprising 8,000 unique characters each holding an iconic food. Designed with a quirky sense of style, the artist's aspiration is to cultivate an ok-to-be-different and be-proud-of-who-you-are culture. Designed by award winning Filipino artist, TRNZ",
+    "tags": [
+      "community",
+      "nft"
+    ],
+    "links": {
+      "twitter": {
+        "id": "twitter",
+        "url": "https://twitter.com/SuperordinaryF"
+      },
+      "website": {
+        "id": "website",
+        "url": "https://www.superordinary.io/"
+      }
+    }
+  },
+  {
+    "id": "liso_password_manager",
+    "name": "Liso Password Manager",
+    "verified": false,
+	  "image": "https://avatars.githubusercontent.com/u/105350478?s=200&v=4",
+    "description":
+      "The secure way to save passwords and more. Powered by Web3 Tech.",
+    "tags": [
+      "service",
+      "product"
+    ],
+    "links": {
+      "website": {
+        "id": "website",
+        "url": "https://liso.dev"
+      }
+    }
+  },
+  {
+    "id": "teamfy_labs",
+    "name": "Teamfy Labs",
+    "verified": false,
+	  "image": "https://avatars.githubusercontent.com/u/105350478?s=200&v=4",
+    "description":
+      "Empowering startups, gamers, investors, collectors, artists and celebrities thru blockchain technology.",
+    "tags": [
+      "company",
+      "service"
+    ],
+    "links": {
+      "website": {
+        "id": "website",
+        "url": "https://www.teamfy.io"
       }
     }
   }
