@@ -57,9 +57,9 @@
     "description":
       "Twala is a specialized Ethereum sidechain designed to enable digital trust, security, and compliance for banks, government institutions, organizations, and businesses. Twala has built-in protocols for self-sovereign blockchain identities and digital document anchoring to help connect Web2 and Web3 ecosystems.",
     "tags": [
-      "blockchain", 
       "company",
-      "technology"
+      "service",
+      "product"
     ],
     "links": {
       "facebook": {
@@ -84,10 +84,8 @@
     "description":
       "DvCode Technologies Inc. is an IT solutions company specializing in software development leveraging on blockchain smart contracts, digital wallets, and cyber-security; game app development; network infrastructure building and web 3.0 development. Our main goal is to help our clients make use of the modern technology in their every lives that will be fun, easy-to-use, cost-effective and convenient.",
     "tags": [
-      "nft", 
-      "defi", 
-      "gaming",
-      "company"
+      "company",
+      "service"
     ],
     "links": {
       "facebook": {
@@ -110,7 +108,8 @@
     "tags": [
       "nft", 
       "defi", 
-      "gaming"
+      "gaming",
+      "earn"
     ],
     "links": {
       "facebook": {
@@ -139,7 +138,7 @@
     "description": "We are supporting environmental advocates through this 105 unique genesis collection of serious platypus. 30% of earnings will proceed to charity for environmental protection. Holders will have a whitelist spot on the upcoming Awesome waren NFT collection, This collection is your key to Serious PlatyVerse. So sit back and relax your friendly platypus is on the way seriously!",
     "tags": [
       "nft",
-      "nft-collection"
+      "community"
     ],
     "links": {
       "website": {
@@ -201,8 +200,9 @@
     "description": "The H-Hedz are hammer-head-shark-human hybrids who are smart professionals by day, musicians by night, hip and classy humanoids from sunup to sundown.  A well-thought-out brand is the secret to lifting H-Hedz above the swarm of NFTs. It is the key to making a ground-breaking impact in the virtual space. The aim is to turn heads and make noise in the Metaverse.",
     "tags": [
       "nft",
-      "nft-collection",
-      "p2e"
+      "community",
+      "earn",
+      "gaming"
     ],
     "links": {
       "website": {
@@ -236,14 +236,14 @@
     }
   },
   {
-    "id": "h-hedz-sharkisquad",
+    "id": "adamant-global-ltd",
     "name": "Adamant Global Ltd.",
     "verified": false,
     "image": "https://avatars.githubusercontent.com/u/105350478?s=200&v=4",
     "description": "Software development and financial technology company specializing in blockchain technology.",
     "tags": [
       "company",
-      "services"
+      "service"
     ],
     "links": {
       "website": {
@@ -260,8 +260,7 @@
     "description": "LX StudioLabs is a web3 consulting firm that provides a full range of services, such as design, game development, and web3 development. We offer everything a web3 project owner needs to build their web3 idea. Along with that, LX StudioLabs is developing its own products which are w3bler and Engkanto Fantasy.",
     "tags": [
       "company",
-      "services",
-      "consulting"
+      "service"
     ],
     "links": {
       "website": {
@@ -290,7 +289,8 @@
     "description": "Playible is an NFT fantasy sports platform focused on bridging the gap between web3 technologies and traditional gaming markets to offer free-to-enter fantasy sports contests with real cryptocurrency prizes.",
     "tags": [
       "nft",
-      "platform"
+      "gaming",
+      "dapp"
     ],
     "links": {
       "website": {
@@ -315,8 +315,8 @@
     "description": "BlockShots is a free-to-play (f2p), multiplayer, strategy, turn-based artillery game built with blockchain technology where players can control their bots (vessels), collect, craft, upgrade, and sell resources while competing with each other to attain top rank and earn epic rewards.",
     "tags": [
       "nft",
-      "p2e",
-      "game",
+      "earn",
+      "gaming",
       "metaverse"
     ],
     "links": {
@@ -334,7 +334,7 @@
     "description": "Kultura NFT is a continuous NFT project soon launching in the Solana blockchain. It is insipired from the beautiful culture of our Filipino ancestors who settled the norms of what we practice today. Along with this, we believe that influence and expansion is a great way to kick start our journey as an NFT project, so it is part of our advocacy to educate the people about the potential of web3 and the possible web4 in the future.",
     "tags": [
       "nft",
-      "nft-collection"
+      "community"
     ],
     "links": {
       "website": {
@@ -351,8 +351,7 @@
     "description": "We provide top-of-the-line information technology solutions for individuals and businesses, with a particular focus and expertise on Blockchain, Metaverse, and Web 3.0 technology.",
     "tags": [
       "company",
-      "products",
-      "services"
+      "service"
     ],
     "links": {
       "website": {
@@ -384,9 +383,7 @@
     "image": "https://avatars.githubusercontent.com/u/105350478?s=200&v=4",
     "description": "The Tetrix Network is a project that began in 2020 as an effort to change the way blockchains are designed and developed for the digital space where communities, enterprises, governments, and individuals interact and coexist in the same ecosystem. The overall focus beyond a particular set of innovations is to provide a sustainable ecosystem that better accounts for the needs of its users as well as other system projects seeking integration.",
     "tags": [
-      "blockchain",
-      "technology",
-      "network"
+      "product"
     ],
     "links": {
       "website": {
@@ -434,9 +431,7 @@
     "image": "https://avatars.githubusercontent.com/u/105350478?s=200&v=4",
     "description": "Trilz delivers the best quality contents that covers Web 3.0 and anything blockchain. Aims to be the leading crypto media by 2023!",
     "tags": [
-      "media",
-      "blog",
-      "creator"
+      "content"
     ],
     "links": {
       "website": {
@@ -453,7 +448,8 @@
     "description": "The Round Table (TRT) is a community services provider that assists various crypto/NFT/blockchain gaming projects to develop healthy, engaged, and long-lasting communities. TRT helps projects achieve growth by converting the members of their communities into informed project investors.",
     "tags": [
       "company",
-      "services"
+      "community",
+      "service"
     ],
     "links": {
       "website": {
@@ -472,9 +468,9 @@
     "tags": [
       "nft",
       "defi",
-      "p2e",
+      "earn",
       "metaverse",
-      "game"
+      "gaming"
     ],
     "links": {
       "discord": {
@@ -499,11 +495,7 @@
     "description":
       "Pandosoft offers Web3 solutions delivering data and video stream in the Blockchain.  Technology powered by the community, a one-stop multimodal streaming platform that enables incentives for streaming a variety of contents from serials, movies, shorts, online learning and live game streaming.",
     "tags": [
-      "web3solutions",
-      "technology",
-      "data-delivery",
-      "streaming",
-      "platform",
+      "service",
       "company"
     ],
     "links": {
@@ -541,11 +533,9 @@
     "description":
       "8CHAIN is an 8-in-1 token project, building ONE CHAIN at a time starting with MaxRep Workout-and-Earn",
     "tags": [
-      "w2e",
       "nft",
-      "p2e",
-      "staking",
-      "virtualworld"
+      "earn",
+      "defi"
     ],
     "links": {
       "discord": {
@@ -595,8 +585,6 @@
       "Project Elemento is a Web project including an NFT collection of 10,000 folklore creatures derived from Philippine Mythology living in an advanced and futuristic era. We are combining our passion in Arts, Literature, and Web3 & community building to bring value to the NFT space.",
     "tags": [
       "nft",
-      "arts",
-      "collection",
       "community"
     ],
     "links": {
@@ -638,8 +626,8 @@
     "description":
       "We are a content discovery platform built on blockchain technology that rewards the entire web ecosystem. ",
     "tags": [
-      "platform",
-      "technology"
+      "service",
+      "dapp"
     ],
     "links": {
       "website": {
@@ -656,8 +644,7 @@
     "description":
       "Daily web3 content—news, features, guides and events about crypto, NFTs and games.",
     "tags": [
-      "news",
-      "media"
+      "content"
     ],
     "links": {
       "discord": {
@@ -712,32 +699,41 @@
     }
   },
   {
-    "id": "rosepad",
-    "name": "RosePad",
+    "id": "rosehub",
+    "name": "RoseHub",
     "verified": true,
     "image": "https://avatars.githubusercontent.com/u/105350478?s=200&v=4",
-    "description": "First Premium Launchpad-DEX-NFT platform on Oasis Network.",
+    "description": "RoseHub is a Premium DeFi platform on Oasis Network with DEX, aggregated liquidity, staking, launchpad and more.",
     "tags": [
-      "launchpad",
+      "dapp",
+      "defi",
       "company",
       "nft"
     ],
     "links": {
       "website": {
         "id": "website",
-        "url": "https://rosepad.io"
+        "url": "https://rosehub.io"
       },
       "twitter": {
         "id": "twitter",
-        "url": "https://twitter.com/RosePadMedia"
+        "url": "https://twitter.com/RoseHubMedia"
       },
       "discord": {
         "id": "discord",
-        "url": "https://discord.com/invite/rosepad"
+        "url": "https://discord.com/invite/5D4kNTXDCe"
+      },
+      "telegram": {
+        "id": "telegram",
+        "url": "https://t.me/RoseHubMedia"
+      },
+      "medium": {
+        "id": "medium",
+        "url": "https://rosehub.medium.com/"
       },
       "linkedin": {
         "id": "linkedin",
-        "url": "https://linkedin.com/company/rosepad-io"
+        "url": "https://www.linkedin.com/company/rosehub-io/"
       }
     }
   },
@@ -749,10 +745,9 @@
     "description":
       "Playgroundzero.io is a community-focused GameFi platform that connects gamers, guilds and GameFi studios. PGZ allows users to develop their brand, expand their network, and explore opportunities in GameFi. The platform offers user verification, messaging, and marketplace capabilities to promote a safe and easy way to form meaningful connections.",
     "tags": [
-      "gamefi",
+      "service",
       "community",
-      "gamer",
-      "guild",
+      "gaming",
       "company"
     ],
     "links": {
@@ -814,7 +809,7 @@
       "Your Guide to Japanese Culture Lucky 7,777 generative NFTs that will grant you charms and perks. Inspired by the beauty of Japan, Tiny Geisha would like to bring this to you at the comforts of your home. This NFT will bridge us through the metaverse and reality.",
     "tags": [
       "metaverse",
-      "collectibles",
+      "community",
       "nft"
     ],
     "links": {
@@ -833,8 +828,7 @@
       "Cryptoguppies is an NFT project with 3,000 collections of Guppy Fishes with lots of color combination and limitless concepts under Polygon Network, It is also a people-driven project which offers  a healthy and growing community that values mental health, music and arts enthusiasm, agricultural advocacy, and innovation.",
     "tags": [
       "community",
-      "nft",
-      "collectibles"
+      "nft"
     ],
     "links": {
       "discord": {
@@ -856,8 +850,8 @@
       "Kryptomon is an NFT Play-and-Earn Web3 Game, set in the Kryptomon Metaverse, community members play as ‘Trainers’ of their own individual monsters — Kryptomon’s — each of which is a completely unique digital asset connected to an NFT. Each has a unique but mutable genetic code made up of 38 randomised parameters that determine all of the aspects — physical and behavioural — of the creature. ",
     "tags": [
       "community",
-      "pae",
-      "game",
+      "earn",
+      "gaming",
       "nft",
       "metaverse"
     ],
@@ -876,7 +870,7 @@
     "description":
       "Blockchain, crypto, and web3 media organization",
     "tags": [
-      "media",
+      "content",
       "organization"
     ],
     "links": {
@@ -894,7 +888,7 @@
     "description":
       "Chibverse is collective NFTs that can be minted using a polygon network with cool and unique looks that will melt your heart.",
     "tags": [
-      "collection",
+      "community",
       "nft"
     ],
     "links": {
@@ -921,7 +915,7 @@
       "Web3 Custom Development & IT Talent Outsourcing",
     "tags": [
       "company",
-      "solutions"
+      "service"
     ],
     "links": {
       "website": {
@@ -938,7 +932,8 @@
     "description":
       "Virtual Property Marketplace. ARKAYV is a webapp for trading Architecture & Design as NFTs.",
     "tags": [
-      "marketplace",
+      "service",
+      "dapp",
       "nft"
     ],
     "links": {
@@ -981,7 +976,7 @@
       "The Future of Blockchain Technology",
     "tags": [
       "company",
-      "technology"
+      "service"
     ],
     "links": {
       "website": {
@@ -999,8 +994,7 @@
       "Rising Eggplants is a collection of 2222 eggplants that will soon rise in the Polygon Blockchain. It aims to connect people, support local artists, and promote social involvement. Aside from being a chill and fun project, the vision for the community is for it to be engaged in social, artistic, and fun activities with the help of experts and community members. Together with our eggplants, rise with us!",
     "tags": [
       "community",
-      "nft",
-      "collection"
+      "nft"
     ],
     "links": {
       "discord": {
@@ -1022,8 +1016,8 @@
       "Draper Startup House Manila is the hub of web3 startups. We connect, inspire, and empower the Web3 community in our physical space with our events such as Bitcoin, Beer & Bitstories monthly meetup. We are also a venture studio, with projects like Artist Collective empowering artists through our residency & incubation program, in partnership with NFT platforms. We are also starting to transition and integrate our hospitality services in the metaverse by tokenizing our hotel (Bitcoin payment etc.)",
     "tags": [
       "community",
-      "venture",
-      "eventsplace"
+      "organization",
+      "location"
     ],
     "links": {
       "website": {
@@ -1041,8 +1035,7 @@
       "A community for animal lovers, NFT collectors and crypto enthusiasts. An NFT collection of unique animated Pixel Arts with only 111 supply in the 1st Collection and with 4,444 supply in the Generative 2nd Collection. We have an upcoming mobile game about hamsters where the player will take care of them like the popular mobile game Pou and the nostalgic Tamagochi. HAGMI!",
     "tags": [
       "community",
-      "nft",
-      "collection"
+      "nft"
     ],
     "links": {
       "discord": {
@@ -1083,8 +1076,7 @@
     "description":
       "Pillow Fund is a global crypto savings app which lets users earn up to 50% interest on their crypto seamlessly.",
     "tags": [
-      "app",
-      "technology",
+      "dapp",
       "company"
     ],
     "links": {
@@ -1107,8 +1099,7 @@
       "Multimedia and Marketing Agency",
     "tags": [
       "company",
-      "multimedia",
-      "marketing"
+      "service"
     ],
     "links": {
       "website": {
@@ -1126,8 +1117,7 @@
       "The Newbs - a collection of 9,999 randomly generated NFTs built from 218 unique traits, 4 specials, and 15 1/1s. They are a human-like species, Homo erectus version, in the world of web3. We are a group of Newbs that will explore and learn what we can do on the web3. The Newbs will seek information until they evolve into intelligent being. Our goal is to grow together in the world of web3 as a community and bring our brand to life. 🔥",
     "tags": [
       "community",
-      "nft",
-      "collection"
+      "nft"
     ],
     "links": {
       "discord": {
@@ -1157,9 +1147,8 @@
       "A brief intro to one of our works (Delysium) : We are an open-world, AI-powered and completely player-owned MMO triple A blockchain game that supports players in creating various personalized physical assets, narrative assets together with native AI MetaBeings. What we are building is an immersive, supreme as well as dynamically generated open-world experience 😊 ",
     "tags": [
       "company",
-      "game",
-      "technology",
-      "ai"
+      "gaming",
+      "metaverse"
     ],
     "links": {
       "discord": {
@@ -1192,8 +1181,7 @@
     "description":
       "PZOO helps to build, design, operate, and govern blockchain solutions across many industries using trusted processes and technology. PZOO opens new doors for creatives and web users to new styles of digital interactions, trust, assets, applications, web tools, identity management, and experiences. ",
     "tags": [
-      "solutions",
-      "tool",
+      "service",
       "company"
     ],
     "links": {
@@ -1228,11 +1216,9 @@
       "A fantasy-themed Free-to-Play and Play-and-Earn turn-based RPG card game in which players can earn rewards through battling.",
     "tags": [
       "community",
-      "f2p",
-      "pae",
-      "game",
-      "nft",
-      "collection"
+      "earn",
+      "gaming",
+      "nft"
     ],
     "links": {
       "discord": {
@@ -1270,8 +1256,7 @@
       "A story-based NFT collectible about the exciting and eventful universe of Anuraverse.",
     "tags": [
       "community",
-      "nft",
-      "collection"
+      "nft"
     ],
     "links": {
       "discord": {
@@ -1300,9 +1285,8 @@
     "description":
       "PNGUIN powered by Gibki Labs Corporation will innovate traditional business technology by pioneering web3 business tools and software. We empowers builders, creators, and businesses with an ecosystem of tools to utilize web3 in their exclusive communities, to bring the same functionality, speed and convenience without compromises.",
     "tags": [
-      "solution",
-      "company",
-      "technology"
+      "service",
+      "company"
     ],
     "links": {
       "twitter": {
@@ -1321,8 +1305,7 @@
     "tags": [
       "community",
       "nft",
-      "metaverse",
-      "collection"
+      "metaverse"
     ],
     "links": {
       "twitter": {
@@ -1340,8 +1323,6 @@
       "NFT Host is a website where you can generate NFT collections and create NFT minting website. We provide the fastest and cheapest NFT generator in the market. Mint website features includes prebuilt templates, addons, aliases, and more. We also offer metadata file utilities.",
     "tags": [
       "service",
-      "technology",
-      "solution",
       "company"
     ],
     "links": {
@@ -1360,7 +1341,7 @@
       "Hardware wallet importer",
     "tags": [
       "company",
-      "store"
+      "product"
     ],
     "links": {
       "facebook": {
@@ -1438,6 +1419,265 @@
       "discord": {
         "id": "discord",
         "url": "https://discord.gg/metacraftersio"
+      }
+    }
+  },
+  {
+    "id": "mythosis_nft",
+    "name": "Mythosis NFT",
+    "verified": false,
+	  "image": "https://avatars.githubusercontent.com/u/105350478?s=200&v=4",
+    "description": "A collection of Philippine Mythological Creature-inspired NFTs.",
+    "tags": [
+      "community",
+      "nft"
+    ],
+    "links": {
+      "discord": {
+        "id": "discord",
+        "url": "https://discord.com/invite/ZGf2GKzRJt"
+      },
+      "twitter": {
+        "id": "twitter",
+        "url": "https://twitter.com/MythosisNFT"
+      },
+      "youtube": {
+        "id": "youtube",
+        "url": "https://youtube.com/MythosisNFT"
+      },
+      "website": {
+        "id": "website",
+        "url": "https://twitter.com/MythosisNFT"
+      }
+    }
+  },
+  {
+    "id": "aaronicstyle",
+    "name": "AaronicStyle",
+    "verified": false,
+	  "image": "https://avatars.githubusercontent.com/u/105350478?s=200&v=4",
+    "description":
+      "A showcase of visual creativity, from illustrations, designs, industrial arts and patterns, so on to Web3 for the different NFT Art projects and designing assets.",
+    "tags": [
+      "service",
+      "nft"
+    ],
+    "links": {
+      "twitter": {
+        "id": "twitter",
+        "url": "https://twitter.com/aaronicstyle"
+      },
+      "website": {
+        "id": "website",
+        "url": "https://twitter.com/aaronicstyle"
+      }
+    }
+  },
+  {
+    "id": "burning_dragons",
+    "name": "Burning Dragons",
+    "verified": false,
+	  "image": "https://avatars.githubusercontent.com/u/105350478?s=200&v=4",
+    "description":
+      "We are BURNING DRAGONS, the first NFT Art Project that ties to a novel and a multiverse full of lore. The first novel NFT project. A collection of unique DRAGOONS- Dragons living among the humans. Long ago, tragedy struck and caused the Dragons of the world to metamorphose into their greatest adversaries - humans. Not everyone is given the chance to become a dragon, and our project aims to raise those that are unfortunate to become the next world leaders.",
+    "tags": [
+      "community",
+      "nft"
+    ],
+    "links": {
+      "twitter": {
+        "id": "twitter",
+        "url": "https://twitter.com/BurnDragonsNFT"
+      },
+      "website": {
+        "id": "website",
+        "url": "https://twitter.com/BurnDragonsNFT"
+      }
+    }
+  },
+  {
+    "id": "sparklearn_edtech",
+    "name": "SparkLearn EdTech",
+    "verified": false,
+	  "image": "https://avatars.githubusercontent.com/u/105350478?s=200&v=4",
+    "description":
+      "SparkLearn EdTech is an online upskilling platform for blockchain tech & web3 education in the Philippines.",
+    "tags": [
+      "community",
+      "education"
+    ],
+    "links": {
+      "facebook": {
+        "id": "facebook",
+        "url": " https://lrn.ac/facebook"
+      },
+      "twitter": {
+        "id": "twitter",
+        "url": "https://lrn.ac/twitter"
+      },
+      "instagram": {
+        "id": "instagram",
+        "url": "https://lrn.ac/instagram"
+      },
+      "youtube": {
+        "id": "youtube",
+        "url": "https://lrn.ac/youtube"
+      },
+      "linkedin": {
+        "id": "linkedin",
+        "url": "https://lrn.ac/linkedin"
+      },      
+      "github": {
+        "id": "github",
+        "url": "https://lrn.ac/github"
+      },
+      "website": {
+        "id": "website",
+        "url": "https://lrn.ac/about"
+      }
+    }
+  },
+  {
+    "id": "scarletbox",
+    "name": "ScarletBox",
+    "verified": false,
+	  "image": "https://avatars.githubusercontent.com/u/105350478?s=200&v=4",
+    "description":
+      "We aim to bring honored world class artists to be appreciated with a more dynamic experience by a wider audience. And with it, we add transparency and preservation to the mix through non-fungible tokens (NFTs).",
+    "tags": [
+      "community",
+      "nft",
+      "service"
+    ],
+    "links": {
+      "discord": {
+        "id": "discord",
+        "url": "http://discord.gg/scarletbox"
+      },
+      "facebook": {
+        "id": "facebook",
+        "url": "https://www.facebook.com/scarletbox.io"
+      },
+      "twitter": {
+        "id": "twitter",
+        "url": "https://twitter.com/Scarletbox_io"
+      },
+      "instagram": {
+        "id": "instagram",
+        "url": "https://www.instagram.com/scarletbox.io"
+      },
+      "website": {
+        "id": "website",
+        "url": "https://scarletbox.io/"
+      }
+    }
+  },
+  {
+    "id": "aswang_tribe",
+    "name": "Aswang Tribe",
+    "verified": false,
+	  "image": "https://avatars.githubusercontent.com/u/105350478?s=200&v=4",
+    "description":
+      "Aswang Tribe is a collection of 3333 utility-infused NFTs inspired by Filipino mythology.This vastly diverse set of profile picture art gives you access to a one-of-a-kind digital collectible ecosystem that features Day 1 Staking, Day 1 Breeding, and one of the most wildly creative communities in web3.",
+    "tags": [
+      "community",
+      "nft"
+    ],
+    "links": {
+      "twitter": {
+        "id": "twitter",
+        "url": "https://twitter.com/AswangTribe"
+      },
+      "website": {
+        "id": "website",
+        "url": "https://www.aswangtribe.com/"
+      }
+    }
+  },
+  {
+    "id": "filipino_crypto_community_managers",
+    "name": "Filipino Crypto Community Managers",
+    "verified": false,
+	  "image": "https://avatars.githubusercontent.com/u/105350478?s=200&v=4",
+    "description":
+      "Central Hub for Filipino Web3 Community Leaders,Developers, Managers and Moderators",
+    "tags": [
+      "community"
+    ],
+    "links": {
+      "telegram": {
+        "id": "telegram",
+        "url": "https://t.me/Filipinocryptomanagers"
+      },
+      "facebook": {
+        "id": "facebook",
+        "url": "https://www.facebook.com/groups/filipinocryptocommunitymanagers"
+      },
+      "twitter": {
+        "id": "twitter",
+        "url": "https://twitter.com/FilCommun3"
+      },
+      "website": {
+        "id": "website",
+        "url": "https://www.facebook.com/groups/filipinocryptocommunitymanagers"
+      }
+    }
+  },
+  {
+    "id": "superordinary_friends",
+    "name": "Superordinary Friends",
+    "verified": false,
+	  "image": "https://avatars.githubusercontent.com/u/105350478?s=200&v=4",
+    "description":
+      "Built on the foundation that food brings people together, Superordinary Friends is an exclusive food and experience NFT project comprising 8,000 unique characters each holding an iconic food. Designed with a quirky sense of style, the artist's aspiration is to cultivate an ok-to-be-different and be-proud-of-who-you-are culture. Designed by award winning Filipino artist, TRNZ",
+    "tags": [
+      "community",
+      "nft"
+    ],
+    "links": {
+      "twitter": {
+        "id": "twitter",
+        "url": "https://twitter.com/SuperordinaryF"
+      },
+      "website": {
+        "id": "website",
+        "url": "https://www.superordinary.io/"
+      }
+    }
+  },
+  {
+    "id": "liso_password_manager",
+    "name": "Liso Password Manager",
+    "verified": false,
+	  "image": "https://avatars.githubusercontent.com/u/105350478?s=200&v=4",
+    "description":
+      "The secure way to save passwords and more. Powered by Web3 Tech.",
+    "tags": [
+      "service",
+      "product"
+    ],
+    "links": {
+      "website": {
+        "id": "website",
+        "url": "https://liso.dev"
+      }
+    }
+  },
+  {
+    "id": "teamfy_labs",
+    "name": "Teamfy Labs",
+    "verified": false,
+	  "image": "https://avatars.githubusercontent.com/u/105350478?s=200&v=4",
+    "description":
+      "Empowering startups, gamers, investors, collectors, artists and celebrities thru blockchain technology.",
+    "tags": [
+      "company",
+      "service"
+    ],
+    "links": {
+      "website": {
+        "id": "website",
+        "url": "https://www.teamfy.io"
       }
     }
   }

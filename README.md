@@ -28,7 +28,25 @@ JSON
 	lastUpdated: number // in Unix Epoch Timestamp
 }
 ```
-
+Official Project Tags of the Directory
+```
+earn
+nft
+metaverse
+dapp
+service
+community
+dao
+guild
+defi
+product
+gaming
+content
+organization
+company
+education
+location
+```
 DataObject (Sample)
 
 ```
