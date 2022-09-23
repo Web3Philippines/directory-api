@@ -1782,5 +1782,23 @@
         "url": "https://approvingcorgis.com/"
       }
     }
+  },
+  {
+    "id": "tasty_bones",
+    "name": "Tasty Bones",
+    "verified": false,
+	  "image": "https://avatars.githubusercontent.com/u/105350478?s=200&v=4",
+    "description":
+      "Tasty Bones is an NFT collection of 4999 skeletons who fetch food offerings from the Land of the Living and deliver to their respective Souls in the Land of the Dead.",
+    "tags": [
+      "community",
+      "nft"
+    ],
+    "links": {
+      "website": {
+        "id": "website",
+        "url": "https://tastybones.xyz/"
+      }
+    }
   }
 ]
