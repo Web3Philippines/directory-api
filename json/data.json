@@ -1680,5 +1680,32 @@
         "url": "https://www.teamfy.io"
       }
     }
+  },
+  {
+    "id": "nftpinas",
+    "name": "NFTPINAS",
+    "verified": false,
+	  "image": "https://avatars.githubusercontent.com/u/105350478?s=200&v=4",
+    "description":
+      "We are an NFT marketplace build on #zksync focused on bootstrapping Filipino NFT and metaverse artists and projects.",
+    "tags": [
+      "community",
+      "dapp",
+      "nft"
+    ],
+    "links": {
+      "discord": {
+        "id": "discord",
+        "url": "https://discord.gg/DmupqrKEGG"
+      },
+      "twitter": {
+        "id": "twitter",
+        "url": "https://twitter.com/nftpinas_eth"
+      },
+      "website": {
+        "id": "website",
+        "url": "https://nftpinas.io/"
+      }
+    }
   }
 ]
