@@ -1800,5 +1800,28 @@
         "url": "https://tastybones.xyz/"
       }
     }
+  },
+  {
+    "id": "webmint",
+    "name": "Webmint",
+    "verified": true,
+	  "image": "https://avatars.githubusercontent.com/u/105350478?s=200&v=4",
+    "description":
+      "Webmint enables creators, artists, musicians, SMEs, DAOs, clubs and other organized groups to build their web3 communities without code. Users can generate, create, sell and manage NFTs within minutes and we offer tools to help users to continue to build their communities, including access to an ecosystem of sold-out projects and other web3 partners, ERC-20 token creation, staking and giveaways portals, and advanced analytics - both on-chain and off-chain, including social engagement analytics.",
+    "tags": [
+      "service",
+      "dapp",
+      "product"
+    ],
+    "links": {
+      "twitter": {
+        "id": "twitter",
+        "url": "https://twitter.com/w3bmint"
+      },
+      "website": {
+        "id": "website",
+        "url": "https://w3bmint.xyz/"
+      }
+    }
   }
 ]
