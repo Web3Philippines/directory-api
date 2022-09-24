@@ -1746,7 +1746,7 @@
   {
     "id": "pooltogether_ph",
     "name": "PoolTogether-PH",
-    "verified": false,
+    "verified": true,
 	  "image": "https://avatars.githubusercontent.com/u/105350478?s=200&v=4",
     "description":
       "PoolTogether Filipino Community- PoolTogether is a prize savings protocol, enabling you to win by saving. ",
