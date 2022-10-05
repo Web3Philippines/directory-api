@@ -52,7 +52,7 @@ const handler = async (req, res) => {
 
     // add pages field
     pages = Math.ceil(data.length / size);
-    hasNextPage = page < data.length - 1 ? true : false
+    hasNextPage = page < pages - 1 ? true : false;
 
     const start = page * size;
     const end = start + size;
