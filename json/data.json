@@ -1680,5 +1680,148 @@
         "url": "https://www.teamfy.io"
       }
     }
+  },
+  {
+    "id": "nftpinas",
+    "name": "NFTPINAS",
+    "verified": false,
+	  "image": "https://avatars.githubusercontent.com/u/105350478?s=200&v=4",
+    "description":
+      "We are an NFT marketplace build on #zksync focused on bootstrapping Filipino NFT and metaverse artists and projects.",
+    "tags": [
+      "community",
+      "dapp",
+      "nft"
+    ],
+    "links": {
+      "discord": {
+        "id": "discord",
+        "url": "https://discord.gg/DmupqrKEGG"
+      },
+      "twitter": {
+        "id": "twitter",
+        "url": "https://twitter.com/nftpinas_eth"
+      },
+      "website": {
+        "id": "website",
+        "url": "https://nftpinas.io/"
+      }
+    }
+  },
+  {
+    "id": "Likha ",
+    "name": "Likha",
+    "verified": true,
+	  "image": "https://avatars.githubusercontent.com/u/105350478?s=200&v=4",
+    "description":
+      "Likha is a rapidly growing startup that aims to pave the way for NFT adoption in the Philippines. We aim to build a marketplace that showcases the work of select Filipino artists, personalities, and brands. ",
+    "tags": [
+      "community",
+      "nft",
+      "dapp"
+    ],
+    "links": {
+      "discord": {
+        "id": "discord",
+        "url": "https://discord.gg/QF47bzZdPK"
+      },
+      "facebook": {
+        "id": "facebook",
+        "url": "https://www.facebook.com/likha.nft"
+      },
+      "twitter": {
+        "id": "twitter",
+        "url": "https://twitter.com/LikhaNFT"
+      },
+      "instagram": {
+        "id": "instagram",
+        "url": "https://www.instagram.com/likha.nft/"
+      },
+      "website": {
+        "id": "website",
+        "url": "https://www.likhanft.io"
+      }
+    }
+  },
+  {
+    "id": "pooltogether_ph",
+    "name": "PoolTogether-PH",
+    "verified": true,
+	  "image": "https://avatars.githubusercontent.com/u/105350478?s=200&v=4",
+    "description":
+      "PoolTogether Filipino Community- PoolTogether is a prize savings protocol, enabling you to win by saving. ",
+    "tags": [
+      "community",
+      ""
+    ],
+    "links": {
+      "facebook": {
+        "id": "facebook",
+        "url": "https://www.facebook.com/pool2gether"
+      },
+      "website": {
+        "id": "website",
+        "url": "https://www.facebook.com/pool2gether"
+      }
+    }
+  },
+  {
+    "id": "approving_corgis",
+    "name": "Approving Corgis",
+    "verified": false,
+	  "image": "https://avatars.githubusercontent.com/u/105350478?s=200&v=4",
+    "description":
+      "Approving Corgis is a collection of 9,999 adorable corgis living on the Ethereum blockchain, generated using 350+ unique attributes.",
+    "tags": [
+      "community",
+      "nft"
+    ],
+    "links": {
+      "website": {
+        "id": "website",
+        "url": "https://approvingcorgis.com/"
+      }
+    }
+  },
+  {
+    "id": "tasty_bones",
+    "name": "Tasty Bones",
+    "verified": false,
+	  "image": "https://avatars.githubusercontent.com/u/105350478?s=200&v=4",
+    "description":
+      "Tasty Bones is an NFT collection of 4999 skeletons who fetch food offerings from the Land of the Living and deliver to their respective Souls in the Land of the Dead.",
+    "tags": [
+      "community",
+      "nft"
+    ],
+    "links": {
+      "website": {
+        "id": "website",
+        "url": "https://tastybones.xyz/"
+      }
+    }
+  },
+  {
+    "id": "webmint",
+    "name": "Webmint",
+    "verified": true,
+	  "image": "https://avatars.githubusercontent.com/u/105350478?s=200&v=4",
+    "description":
+      "Webmint enables creators, artists, musicians, SMEs, DAOs, clubs and other organized groups to build their web3 communities without code. Users can generate, create, sell and manage NFTs within minutes and we offer tools to help users to continue to build their communities, including access to an ecosystem of sold-out projects and other web3 partners, ERC-20 token creation, staking and giveaways portals, and advanced analytics - both on-chain and off-chain, including social engagement analytics.",
+    "tags": [
+      "service",
+      "dapp",
+      "product"
+    ],
+    "links": {
+      "twitter": {
+        "id": "twitter",
+        "url": "https://twitter.com/w3bmint"
+      },
+      "website": {
+        "id": "website",
+        "url": "https://w3bmint.xyz/"
+      }
+    }
   }
 ]
