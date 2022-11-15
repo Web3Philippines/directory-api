@@ -1823,5 +1823,153 @@
         "url": "https://w3bmint.xyz/"
       }
     }
+  },
+  {
+    "id": "metacare",
+    "name": "MetaCare",
+    "verified": false,
+	  "image": "https://avatars.githubusercontent.com/u/105350478?s=200&v=4",
+    "description":
+      "MetaCare is the most inclusive web3 benefits platform—offering users access to comprehensive benefits, at the most affordable price. We care for you!",
+    "tags": [
+      "service",
+      "product"
+    ],
+    "links": {
+      "facebook": {
+        "id": "facebook",
+        "url": "https://www.facebook.com/mymetacare"
+      },
+      "twitter": {
+        "id": "twitter",
+        "url": "https://twitter.com/mymetacare"
+      },
+      "instagram": {
+        "id": "instagram",
+        "url": "https://www.instagram.com/mymeta.care/"
+      },
+      "medium": {
+        "id": "medium",
+        "url": "https://mymetacare.medium.com/"
+      },
+      "website": {
+        "id": "website",
+        "url": "https://www.mymeta.care/"
+      }
+    }
+  },
+  {
+    "id": "filipino_web3_community_builders",
+    "name": "Filipino Web3 Community Builders",
+    "verified": false,
+	  "image": "https://avatars.githubusercontent.com/u/105350478?s=200&v=4",
+    "description":
+      "Central Hub for Filipino Web3 Community Builders  and Developers",
+    "tags": [
+      "community"
+    ],
+    "links": {
+      "telegram": {
+        "id": "telegram",
+        "url": "https://t.me/Filipinocryptomanagers"
+      },
+      "facebook": {
+        "id": "facebook",
+        "url": "https://www.facebook.com/groups/filipinoweb3communitybuilders"
+      },
+      "twitter": {
+        "id": "twitter",
+        "url": "https://twitter.com/filipinoweb3"
+      },
+      "website": {
+        "id": "website",
+        "url": "https://www.facebook.com/groups/filipinoweb3communitybuilders"
+      }
+    }
+  },
+  {
+    "id": "gotfrenchie_club",
+    "name": "GotFrenchie Club",
+    "verified": false,
+	  "image": "https://avatars.githubusercontent.com/u/105350478?s=200&v=4",
+    "description":
+      "GotFrenchie Club is a collection of 10,000 unique semi realistic digital art Frenchie NFTs built on the Ethereum blockchain. As dogs have been our partner since the beginning of mankind we bring our real-life dogs as equitable partners in this new digital world. Together we unlock infinite opportunities into the world of Web3 & Metaverse.",
+    "tags": [
+      "community",
+      "nft"
+    ],
+    "links": {
+      "website": {
+        "id": "website",
+        "url": "https://www.gotfrenchie.com"
+      }
+    }
+  },
+  {
+    "id": "honest_farmer_club",
+    "name": "Honest Farmer Club",
+    "verified": false,
+	  "image": "https://avatars.githubusercontent.com/u/105350478?s=200&v=4",
+    "description":
+      "Honest Farmer Club is an NFT PFP project with diverse farm-themed NFT collections utilizing blockchain technology for its GameFi and IRL utilities.",
+    "tags": [
+      "community",
+      "nft"
+    ],
+    "links": {
+      "website": {
+        "id": "website",
+        "url": "https://www.farmernft.com/"
+      }
+    }
+  },
+  {
+    "id": "sparkpoint_technologies_inc",
+    "name": "SparkPoint Technologies Inc.",
+    "verified": true,
+	  "image": "https://avatars.githubusercontent.com/u/105350478?s=200&v=4",
+    "description":
+      "SparkPoint Technologies Inc. is a blockchain technology company launched in 2018 and is one of the first cryptocurrency startups in the Philippines. It is currently based in Albay Province in Bicol Region. SparkPoint aims to fast-track mainstream adoption of blockchain technology and cryptocurrency through its ecosystem of decentralized apps, DeFi and FinTech platform, education-technology platform, and blockchain-based software development services.",
+    "tags": [
+      "company"
+    ],
+    "links": {
+      "discord": {
+        "id": "discord",
+        "url": "https://discord.gg/VPDh6Hq8JQ"
+      },
+      "telegram": {
+        "id": "telegram",
+        "url": "https://t.me/SparkPointOfficial"
+      },
+      "facebook": {
+        "id": "facebook",
+        "url": "https://facebook.com/sparkpointio"
+      },
+      "twitter": {
+        "id": "twitter",
+        "url": "https://twitter.com/sparkpointio"
+      },
+      "instagram": {
+        "id": "instagram",
+        "url": "https://instagram.com/sparkpointio"
+      },
+      "reddit": {
+        "id": "reddit",
+        "url": "https://www.reddit.com/r/SparkPoint/"
+      },
+      "youtube": {
+        "id": "youtube",
+        "url": "https://www.youtube.com/c/sparkpointio"
+      },
+      "linkedin": {
+        "id": "linkedin",
+        "url": "https://www.linkedin.com/company/sparkpointio"
+      },      
+      "website": {
+        "id": "website",
+        "url": "https://sparkpoint.io/"
+      }
+    }
   }
 ]
