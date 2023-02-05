@@ -1971,5 +1971,24 @@
         "url": "https://sparkpoint.io/"
       }
     }
+  },
+  {
+    "id": "metaecoworld",
+    "name": "MetaEco World",
+    "verified": false,
+	  "image": "https://avatars.githubusercontent.com/u/105350478?s=200&v=4",
+    "description":
+      "METAECO = NFT METAverse + Social Simulation Game + AI Technology, MetaEco provides a groundbreaking NFT economy where you not only Play for Money (P2E) but also Earn Freelance (F2O) & Business to Earn money (B2E)",
+    "tags": [
+      "metaverse",
+      "nft",
+      "earn"
+    ],
+    "links": {
+      "twitter": {
+        "id": "twitter",
+        "url": "https://twitter.com/MetaEcoWorld"
+      }      
+    }
   }
 ]
