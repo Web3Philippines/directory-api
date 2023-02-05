@@ -2093,5 +2093,21 @@
         "url": "https://twitter.com/dbuzzapp"
       }
     }
+  },{
+    "id": "launchcaster",
+    "name": "Launchcaster",
+    "verified": false,
+	  "image": "https://avatars.githubusercontent.com/u/105350478?s=200&v=4",
+    "description":
+      "Launchcaster is best way to share and discover new stuff in Web3.",
+    "tags": [
+      "product"
+    ],
+    "links": {
+      "website": {
+        "id": "website",
+        "url": "https://www.launchcaster.xyz"
+      }
+    }
   }
 ]
