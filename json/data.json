@@ -2037,5 +2037,43 @@
         "url": "https://proofsys.io/"
       }
     }
+  },
+  {
+    "id": "fame",
+    "name": "Fame",
+    "verified": false,
+	  "image": "https://avatars.githubusercontent.com/u/105350478?s=200&v=4",
+    "description":
+      "Fame. A highly interactive, web3-based, gamified social network using crypto and NFTs to help you monetize your passions.",
+    "tags": [
+      "gaming",
+      "nft"
+    ],
+    "links": {
+      "discord": {
+        "id": "discord",
+        "url": "https://discord.gg/famelabs"
+      },
+      "facebook": {
+        "id": "facebook",
+        "url": "https://facebook.com/famelabsinc"
+      },
+      "twitter": {
+        "id": "twitter",
+        "url": "https://twitter.com/famebydexy"
+      },
+      "medium": {
+        "id": "medium",
+        "url": "https://famebydexy.medium.com/"
+      },
+      "linkedin": {
+        "id": "linkedin",
+        "url": "https://www.linkedin.com/company/famebydexy"
+      },      
+      "website": {
+        "id": "website",
+        "url": "https://fame.cool"
+      }
+    }
   }
 ]
