@@ -1985,8 +1985,8 @@
       "earn"
     ],
     "links": {
-      "twitter": {
-        "id": "twitter",
+      "website": {
+        "id": "website",
         "url": "https://twitter.com/MetaEcoWorld"
       }      
     }
@@ -2018,6 +2018,23 @@
       "website": {
         "id": "website",
         "url": "https://astroxp.io"
+      }
+    }
+  },
+  {
+    "id": "proofsysinc",
+    "name": "ProofSys Inc.",
+    "verified": false,
+	  "image": "https://avatars.githubusercontent.com/u/105350478?s=200&v=4",
+    "description":
+      "Decentralized Technology and Web3 Software Engineering done right.",
+    "tags": [
+      "service"
+    ],
+    "links": {
+      "website": {
+        "id": "website",
+        "url": "https://proofsys.io/"
       }
     }
   }
