@@ -2075,5 +2075,23 @@
         "url": "https://fame.cool"
       }
     }
+  },
+  {
+    "id": "dbuzz",
+    "name": "DBuzz",
+    "verified": false,
+	  "image": "https://avatars.githubusercontent.com/u/105350478?s=200&v=4",
+    "description":
+      "DBuzz is a decentralized #FreeSpeech social media alternative.",
+    "tags": [
+      "community",
+      "service"
+    ],
+    "links": {
+      "website": {
+        "id": "website",
+        "url": "https://twitter.com/dbuzzapp"
+      }
+    }
   }
 ]
