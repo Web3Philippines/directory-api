@@ -1990,5 +1990,35 @@
         "url": "https://twitter.com/MetaEcoWorld"
       }      
     }
+  },
+  {
+    "id": "astroxp",
+    "name": "ASTRO XP",
+    "verified": false,
+	  "image": "https://avatars.githubusercontent.com/u/105350478?s=200&v=4",
+    "description":
+      "ASTRO XP is an open-world RPG where players can live and thrive in a virtual world. Fulfill your intergalactic dreams by being a space settler, ultrasonic race car driver, and world builder in a universe of your own creation.",
+    "tags": [
+      "community",
+      "nft"
+    ],
+    "links": {
+      "discord": {
+        "id": "discord",
+        "url": "https://discord.com/invite/astroxpio"
+      },
+      "facebook": {
+        "id": "facebook",
+        "url": "https://www.facebook.com/astroxp.io"
+      },
+      "twitter": {
+        "id": "twitter",
+        "url": "https://twitter.com/PlayAstroXP"
+      },
+      "website": {
+        "id": "website",
+        "url": "https://astroxp.io"
+      }
+    }
   }
 ]
