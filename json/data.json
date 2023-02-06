@@ -1971,5 +1971,143 @@
         "url": "https://sparkpoint.io/"
       }
     }
+  },
+  {
+    "id": "metaecoworld",
+    "name": "MetaEco World",
+    "verified": false,
+	  "image": "https://avatars.githubusercontent.com/u/105350478?s=200&v=4",
+    "description":
+      "METAECO = NFT METAverse + Social Simulation Game + AI Technology, MetaEco provides a groundbreaking NFT economy where you not only Play for Money (P2E) but also Earn Freelance (F2O) & Business to Earn money (B2E)",
+    "tags": [
+      "metaverse",
+      "nft",
+      "earn"
+    ],
+    "links": {
+      "website": {
+        "id": "website",
+        "url": "https://twitter.com/MetaEcoWorld"
+      }      
+    }
+  },
+  {
+    "id": "astroxp",
+    "name": "ASTRO XP",
+    "verified": false,
+	  "image": "https://avatars.githubusercontent.com/u/105350478?s=200&v=4",
+    "description":
+      "ASTRO XP is an open-world RPG where players can live and thrive in a virtual world. Fulfill your intergalactic dreams by being a space settler, ultrasonic race car driver, and world builder in a universe of your own creation.",
+    "tags": [
+      "community",
+      "nft"
+    ],
+    "links": {
+      "discord": {
+        "id": "discord",
+        "url": "https://discord.com/invite/astroxpio"
+      },
+      "facebook": {
+        "id": "facebook",
+        "url": "https://www.facebook.com/astroxp.io"
+      },
+      "twitter": {
+        "id": "twitter",
+        "url": "https://twitter.com/PlayAstroXP"
+      },
+      "website": {
+        "id": "website",
+        "url": "https://astroxp.io"
+      }
+    }
+  },
+  {
+    "id": "proofsysinc",
+    "name": "ProofSys Inc.",
+    "verified": false,
+	  "image": "https://avatars.githubusercontent.com/u/105350478?s=200&v=4",
+    "description":
+      "Decentralized Technology and Web3 Software Engineering done right.",
+    "tags": [
+      "service"
+    ],
+    "links": {
+      "website": {
+        "id": "website",
+        "url": "https://proofsys.io/"
+      }
+    }
+  },
+  {
+    "id": "fame",
+    "name": "Fame",
+    "verified": false,
+	  "image": "https://avatars.githubusercontent.com/u/105350478?s=200&v=4",
+    "description":
+      "Fame. A highly interactive, web3-based, gamified social network using crypto and NFTs to help you monetize your passions.",
+    "tags": [
+      "gaming",
+      "nft"
+    ],
+    "links": {
+      "discord": {
+        "id": "discord",
+        "url": "https://discord.gg/famelabs"
+      },
+      "facebook": {
+        "id": "facebook",
+        "url": "https://facebook.com/famelabsinc"
+      },
+      "twitter": {
+        "id": "twitter",
+        "url": "https://twitter.com/famebydexy"
+      },
+      "medium": {
+        "id": "medium",
+        "url": "https://famebydexy.medium.com/"
+      },
+      "linkedin": {
+        "id": "linkedin",
+        "url": "https://www.linkedin.com/company/famebydexy"
+      },      
+      "website": {
+        "id": "website",
+        "url": "https://fame.cool"
+      }
+    }
+  },
+  {
+    "id": "dbuzz",
+    "name": "DBuzz",
+    "verified": false,
+	  "image": "https://avatars.githubusercontent.com/u/105350478?s=200&v=4",
+    "description":
+      "DBuzz is a decentralized #FreeSpeech social media alternative.",
+    "tags": [
+      "community",
+      "service"
+    ],
+    "links": {
+      "website": {
+        "id": "website",
+        "url": "https://twitter.com/dbuzzapp"
+      }
+    }
+  },{
+    "id": "launchcaster",
+    "name": "Launchcaster",
+    "verified": false,
+	  "image": "https://avatars.githubusercontent.com/u/105350478?s=200&v=4",
+    "description":
+      "Launchcaster is best way to share and discover new stuff in Web3.",
+    "tags": [
+      "product"
+    ],
+    "links": {
+      "website": {
+        "id": "website",
+        "url": "https://www.launchcaster.xyz"
+      }
+    }
   }
 ]
