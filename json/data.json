@@ -1595,35 +1595,6 @@
     }
   },
   {
-    "id": "filipino_crypto_community_managers",
-    "name": "Filipino Crypto Community Managers",
-    "verified": false,
-	  "image": "https://avatars.githubusercontent.com/u/105350478?s=200&v=4",
-    "description":
-      "Central Hub for Filipino Web3 Community Leaders,Developers, Managers and Moderators",
-    "tags": [
-      "community"
-    ],
-    "links": {
-      "telegram": {
-        "id": "telegram",
-        "url": "https://t.me/Filipinocryptomanagers"
-      },
-      "facebook": {
-        "id": "facebook",
-        "url": "https://www.facebook.com/groups/filipinocryptocommunitymanagers"
-      },
-      "twitter": {
-        "id": "twitter",
-        "url": "https://twitter.com/FilCommun3"
-      },
-      "website": {
-        "id": "website",
-        "url": "https://www.facebook.com/groups/filipinocryptocommunitymanagers"
-      }
-    }
-  },
-  {
     "id": "superordinary_friends",
     "name": "Superordinary Friends",
     "verified": false,
